@@ -1,2 +1,5 @@
 title: "nelsonspbr"
 remote_theme: pmarsceill/just-the-docs
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Top"
