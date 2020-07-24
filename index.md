@@ -1,8 +1,8 @@
 ---
 layout: default
 title: nelsonspbr
-nav_order: 0
+nav_exclude:
 permalink: /
 ---
 
-Timestamp: 2020/07/24 00:25
+Timestamp: 2020/07/24 00:26
