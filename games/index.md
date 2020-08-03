@@ -6,4 +6,4 @@ has_children: true
 permalink: /games
 ---
 
-#   Games
+# Games
