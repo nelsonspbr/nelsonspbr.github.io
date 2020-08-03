@@ -1,7 +1,7 @@
 ---
 layout: default
 title: nelsonspbr
-nav_exclude:
+nav_exclude: true
 permalink: /
 ---
 
