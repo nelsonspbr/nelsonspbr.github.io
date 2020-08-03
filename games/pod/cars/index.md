@@ -8,5 +8,3 @@ permalink: /games/pod/cars
 ---
 
 #   Cars
-
-<video autoplay loop muted playsinline src="gamma.mp4"></video>
