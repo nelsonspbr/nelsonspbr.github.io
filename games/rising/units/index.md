@@ -9,6 +9,7 @@ permalink: /games/rising/units
 ---
 
 # Units
+{: .no_toc }
 
 1. TOC
 {:toc}
