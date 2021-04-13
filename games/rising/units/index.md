@@ -10,4 +10,9 @@ permalink: /games/rising/units
 
 # Units
 
+1. TOC
+{:toc}
+
+## Fazendeiro
+
 ![fazendeiro](./fazendeiro.gif)
