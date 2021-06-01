@@ -5,4 +5,10 @@ nav_exclude: true
 permalink: /
 ---
 
-Timestamp: 2020/07/24 00:26
+**Social media**
+
+- [Linkedin](https://www.linkedin.com/in/nelsonspbr)
+- [Twitter](https://twitter.com/nmimurag)
+- [Instagram](https://www.instagram.com/nmimurag)
+
+_Last timestamp: 2020/07/24 00:26_
