@@ -5,10 +5,10 @@ nav_exclude: true
 permalink: /
 ---
 
-**Social media**
+<img src="/nelsonspbr.png">
 
 - <a href="https://www.linkedin.com/in/nelsonspbr" target="_blank">Linkedin</a>
 - <a href="https://twitter.com/nmimurag" target="_blank">Twitter</a>
 - <a href="https://www.instagram.com/nmimurag" target="_blank">Instagram</a>
 
-_Last timestamp: 2021/06/01 00:34 (EDT)_
+_Last timestamp: 2021/06/01 00:52 (EDT)_
