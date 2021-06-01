@@ -5,10 +5,12 @@ nav_exclude: true
 permalink: /
 ---
 
+<img src="/2019.png" width=25%/>
+
 <table style="width: 100%; border: none">
   <tr>
     <td style="vertical-align: top">
-      <img src="/2019.png" width=25% />
+      <img src="/2019.png" width=25%/>
     </td>
     <td style="vertical-align: top">
       <ul>
@@ -21,4 +23,4 @@ permalink: /
 </table>
 
 
-_Last timestamp: 2021/06/01 01:01 (EDT)_
+_Last timestamp: 2021/06/01 01:07 (EDT)_
