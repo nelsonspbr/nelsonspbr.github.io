@@ -8,7 +8,7 @@ permalink: /
 <table style="width: 100%; border: none">
   <tr>
     <td style="vertical-align: top">
-      <img src="/2019.png" width=25%>
+      <img src="/2019.png" width=25% />
     </td>
     <td style="vertical-align: top">
       <ul>
