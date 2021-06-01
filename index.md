@@ -8,7 +8,7 @@ permalink: /
 **Social media**
 
 - <a href="https://www.linkedin.com/in/nelsonspbr" target="_blank">Linkedin</a>
-- [Twitter](https://twitter.com/nmimurag)
-- [Instagram](https://www.instagram.com/nmimurag)
+- <a href="https://twitter.com/nmimurag" target="_blank">Twitter</a>
+- <a href="https://www.instagram.com/nmimurag" target="_blank">Instagram</a>
 
-_Last timestamp: 2021/06/01 00:32 (EDT)_
+_Last timestamp: 2021/06/01 00:34 (EDT)_
