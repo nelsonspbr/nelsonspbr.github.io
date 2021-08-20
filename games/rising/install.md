@@ -8,8 +8,12 @@ nav_order: 1
 has_children: false
 ---
 
-English | Português
+[English](#install--run) / [Português](#instalar--rodar)
 
 # Install & Run
 
+Instructions.
+
 # Instalar & Rodar
+
+Instruções.
