@@ -30,17 +30,20 @@ tribo e dominar esse novo mundo pós-apocalíptico.</i>
 
 I was just a kid when this came to Brazil. Rising Lands was one of the games
 sold as part of this collection from Folha de São Paulo, a Brazilian newspaper.
-I actually found this article from 1998 (in Portuguese) talking about it. You
-would buy the newspaper and then for another R$ 6.90 (like a dollar or two
-today) you would get a CD. I think there were twelve in total. If you collected
-all of them you would also get a joystick in the end. I am pretty sure I still
-have it.
+I actually found this article from 1998 (full article
+[here](https://www1.folha.uol.com.br/fsp/brasil/fc09109811.htm); in Portuguese)
+talking about it. You would buy the newspaper and then for another R$ 6.90
+(like a dollar or two today) you would get a CD. I think there were twelve in
+total. If you collected all of them you would also get a joystick in the end. I
+am pretty sure I still have it.
 
-<i>Eu ainda era criança quando esse jogo veio para o Brasil. Rising Lands era um
-dos jogos da coleção Supergames Folha. O artigo abaixo, de 1998, detalha um
-pouco essa coleção. A idéia era que você comprasse o jornal e por mais R$ 6.90
-levava também um CD. Colecionando todos os doze jogos você ganhava um joystick,
-que eu provavelmente ainda tenho em algum lugar.</i>
+<i>Eu ainda era criança quando esse jogo veio para o Brasil. Rising Lands era
+um dos jogos da coleção Supergames Folha. O artigo abaixo, de 1998, detalha um
+pouco essa coleção (artigo completo
+[aqui](https://www1.folha.uol.com.br/fsp/brasil/fc09109811.htm)). A idéia era
+que você comprasse o jornal e por mais R$ 6.90 levava também um CD.
+Colecionando todos os doze jogos você ganhava um joystick, que eu provavelmente
+ainda tenho em algum lugar.</i>
 
 |    ![](images/2021-08-20-17-35-03.png)     |
 | :----------------------------------------: |
