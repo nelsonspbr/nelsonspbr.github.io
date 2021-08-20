@@ -11,6 +11,10 @@ has_children: true
 | ![](images/2021-08-20-17-19-26.png) |
 | :---------------------------------: |
 
+| ![test](images/2021-08-20-17-19-26.png) |
+| :-------------------------------------: |
+|                 *Space*                 |
+
 Rising Lands is a real-time strategy game developed by Microïds. The game was
 released in 1997. It takes place in a not too distant future when Earth has been
 devastated by a comet. The survivors formed tribes and you are the leader of one
