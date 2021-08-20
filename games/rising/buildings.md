@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Buildings
+title: Buildings (#todo)
 permalink: /games/rising/buildings
 parent: Rising Lands
 grand_parent: Games
