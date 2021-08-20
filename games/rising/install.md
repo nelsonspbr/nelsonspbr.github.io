@@ -8,4 +8,4 @@ nav_order: 1
 has_children: false
 ---
 
-# Rising Lands — Install & Run
+# Install & Run
