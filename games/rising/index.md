@@ -73,14 +73,14 @@ para português e eram muito engraçadas. Ainda me pego repetindo as falas — s
 | :---------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |            **Arqueiro**             |                                                                                **Você chamou?**                                                                                 |
 
-And that is it for this introduction. In the other pages you will find more
-information about the game, including how to [run it on modern systems](./run).
-Also, make sure to check my [playthrough playlist on
-YouTube](https://www.youtube.com/playlist?list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdwBwY).
-Hope you enjoy it!
+And that is it for introduction. In the other pages you will find more
+information about the game, including how to [run it on modern
+systems](./rising/run). Also, make sure to check my [YouTube
+playlist](https://www.youtube.com/playlist?list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdwBwY)
+with all the game missions. Hope you enjoy it!
 
 <i>E é isso pessoal. Nas outras páginas eu falo mais sobre o jogo, incluindo
-instruções para [rodar o jogo em sistemas modernos](./run). Ah, e não se
-esqueça de dar uma olhada na [minha playlist das missões de Rising Lands no
-YouTube](https://www.youtube.com/playlist?list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdwBwY).
-Espero que vocês aproveitem!
+instruções para [rodar o jogo em sistemas modernos](./rising/run). Ah, e não se
+esqueça de dar uma olhada na minha [playlist no
+YouTube](https://www.youtube.com/playlist?list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdwBwY)
+com as missões do jogo. Espero que vocês aproveitem!
