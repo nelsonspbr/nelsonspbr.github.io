@@ -10,6 +10,7 @@ has_children: true
 
 | ![](images/2021-08-20-17-19-26.png) |
 | :---------------------------------: |
+|           *Rising Lands*            |
 
 Rising Lands is a real-time strategy game developed by Microïds. The game was
 released in 1997. It takes place in a not too distant future when Earth has been
@@ -25,6 +26,7 @@ tribo e dominar esse novo mundo pós-apocalíptico.</i>
 
 | ![](images/2021-08-20-17-28-46.png) | ![](images/2021-08-20-17-29-02.png) |
 | :---------------------------------: | :---------------------------------: |
+|             *CD cover*              |             *Actual CD*             |
 
 I was just a kid when this came to Brazil. Rising Lands was one of the games
 sold as part of this collection from Folha de São Paulo, a Brazilian newspaper.
@@ -40,8 +42,9 @@ pouco essa coleção. A idéia era que você comprasse o jornal e por mais R$ 6.
 levava também um CD. Colecionando todos os doze jogos você ganhava um joystick,
 que eu provavelmente ainda tenho em algum lugar.</i>
 
-| ![](images/2021-08-20-17-35-03.png) |
-| :---------------------------------: |
+|  ![](images/2021-08-20-17-35-03.png)   |
+| :------------------------------------: |
+| Article from 1998 about the collection |
 
 I spent a lot of time on this game, which is probably why I still like it.
 Nothing like nostalgia. The graphics were ok, the game had a lot of nice
