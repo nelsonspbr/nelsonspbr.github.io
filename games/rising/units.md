@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Units (#todo)
+title: Units 🛠
 permalink: /games/rising/units
 parent: Rising Lands
 grand_parent: Games

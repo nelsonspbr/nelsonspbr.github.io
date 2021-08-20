@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gameplay & Tips (#todo)
+title: Gameplay & Tips 🛠
 permalink: /games/rising/gameplay
 parent: Rising Lands
 grand_parent: Games
