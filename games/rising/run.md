@@ -34,8 +34,6 @@ allows us to configure **vSync** (Vertical Synchronization) which, as you might
 have guessed, fixes the issue of the game running too fast by capping that speed
 to the monitor's refresh rate.
 
-## Installation
-
 This guide assumes the game is already installed — usually under `C:/RISING`. I
 know... installing Rising Lands might be tricky enough, especially if you do not
 have your CD anymore. I must say though, you may find it (in several different
@@ -120,8 +118,6 @@ mais informações sobre essa biblioteca
 isso permite que a gente configure o **vSync** (sincronização vertical), que faz
 com que o jogo rode na mesma velocidade do monitor — efetivamente resolvendo o
 problema do jogo rodar rápido demais.
-
-## Instalação
 
 Esse guia assume que o jogo já está instalado — tipicamente em `C:/RISING`. Sim,
 instalar o jogo já pode ser suficientemente complicado, especialmente se você
