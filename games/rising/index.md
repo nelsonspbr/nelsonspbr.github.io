@@ -68,3 +68,7 @@ português e eu não entendia nada de inglês. Contudo, nunca deixei de me
 divertir com o jogo. A melhor parte eram as unidades: as falas eram traduzidas
 para português e eram muito engraçadas. Ainda me pego repetindo as falas — sim,
 20 anos depois.</i>
+
+| ![](images/2021-08-20-18-28-50.png) | <audio controls> <source src="sounds/arqueiro-voce-chamou.mp3" type="audio/mp3"> </audio> |
+| :---------------------------------: | :---------------------------------------------------------------------------------------: |
+|            **Arqueiro**             |                                     **Você chamou?**                                      |
