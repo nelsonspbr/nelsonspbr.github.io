@@ -69,7 +69,18 @@ divertir com o jogo. A melhor parte eram as unidades: as falas eram traduzidas
 para português e eram muito engraçadas. Ainda me pego repetindo as falas — sim,
 20 anos depois.</i>
 
-
 | ![](images/2021-08-20-18-28-50.png) | <audio controls> <source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/sounds/arqueiro-voce-chamou.mp3" type="audio/mp3"> </audio> |
 | :---------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |            **Arqueiro**             |                                                                                **Você chamou?**                                                                                 |
+
+And that is it for this introduction. In the other pages you will find more
+information about the game, including how to [run it on modern systems](./run).
+Also, make sure to check my [playthrough playlist on
+YouTube](https://www.youtube.com/playlist?list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdwBwY).
+Hope you enjoy it!
+
+<i>E é isso pessoal. Nas outras páginas eu falo mais sobre o jogo, incluindo
+instruções para [rodar o jogo em sistemas modernos](./run). Ah, e não se
+esqueça de dar uma olhada na [minha playlist das missões de Rising Lands no
+YouTube](https://www.youtube.com/playlist?list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdwBwY).
+Espero que vocês aproveitem!
