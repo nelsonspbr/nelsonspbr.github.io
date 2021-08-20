@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Running on Modern Systems
+title: Running
 permalink: /games/rising/run
 parent: Rising Lands
 grand_parent: Games
