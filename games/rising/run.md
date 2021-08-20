@@ -49,13 +49,13 @@ return what you are looking for.
     current version is 2.75.1. If you want a direct link to it,
     [here it is](http://dege.freeweb.hu/dgVoodoo2/bin/dgVoodoo2_75_1.zip).
 
-    <img width=67% src="images/2021-08-20-09-15-23.png" style="border: 1px solid lightgray"><br/>
+    ![](images/2021-08-20-09-15-23.png)
 
 2.  Extract the downloaded zip somewhere.
 
 3.  Your `RISING` folder might look like this:
 
-    <img width=15% src="images/2021-08-20-00-58-17.png" style="border: 1px solid lightgray"><br/>
+    ![](images/2021-08-20-00-58-17.png)
 
     Copy the following files from the extracted zip file from dgVoodoo into the
     `RISING` folder:
@@ -70,7 +70,7 @@ return what you are looking for.
 5.  Navigate to tab "DirectX" and mark option "Force vSync". Also, unmark option
     "dgVoodoo Watermark".
 
-    <img width=50% src="images/2021-08-20-09-30-55.png" style="border: 1px solid lightgray"><br/>
+    ![](images/2021-08-20-09-30-55.png)
 
 6.  Click "OK" and run `RISING.EXE`. This should be it!
 
@@ -79,7 +79,7 @@ return what you are looking for.
 1.  <b>The game starts but the mission description is empty. I try to start the
     game and it crashes with an application error.</b>
 
-    <img width=50% src="images/2021-08-20-09-39-20.png" style="border: 1px solid lightgray"><br/>
+    ![](images/2021-08-20-09-39-20.png)
 
     Make sure your CD can be found and read by the game, whether if it is in
     your CD drive (if you still have one) or mounted on your system.
@@ -92,7 +92,7 @@ return what you are looking for.
     into thinking you have a CD inserted. You may find WinCDEmu at
     https://wincdemu.sysprogs.org/. It is free and should not come with malware.
 
-    <img width=25% src="images/2021-08-20-09-43-16.png" style="border: 1px solid lightgray"><br/>
+    ![](images/2021-08-20-09-43-16.png)
 
 3.  <b>I cannot hear any music.</b>
 
@@ -135,13 +135,13 @@ no [archive.org](https://archive.org) — inclusive em português!
     a última versão é 2.75.1. Se você prefere um link direto para o download,
     clique [aqui](http://dege.freeweb.hu/dgVoodoo2/bin/dgVoodoo2_75_1.zip).
 
-    <img width=67% src="images/2021-08-20-09-15-23.png" style="border: 1px solid lightgray"><br/>
+    ![](images/2021-08-20-09-15-23.png)
 
 2.  Extraia o zip em alguma pasta do seu sistema.
 
 3.  Sua pasta `RISING` provavelmente parece com isso:
 
-    <img width=15% src="images/2021-08-20-00-58-17.png" style="border: 1px solid lightgray"><br/>
+    ![](images/2021-08-20-00-58-17.png)
 
     Copie os seguintes arquivos do zip extraído para a pasta `RISING`:
 
@@ -155,7 +155,7 @@ no [archive.org](https://archive.org) — inclusive em português!
 5.  Navegue até a aba "DirectX" e marque a opção "Force vSync". Além disso,
     desmarque a opção "dgVoodoo Watermark".
 
-    <img width=50% src="images/2021-08-20-09-30-55.png" style="border: 1px solid lightgray"><br/>
+    ![](images/2021-08-20-09-30-55.png)
 
 6.  Clique em "OK" e rode o jogo, `RISING.EXE`. Pronto, isso deve servir!
 
@@ -164,7 +164,7 @@ no [archive.org](https://archive.org) — inclusive em português!
 1.  <b>O jogo inicia mas a descrição das missões está vazia. Eu tento iniciar o
     jogo e ele termina sozinho com uma mensagem de erro.</b>
 
-    <img width=50% src="images/2021-08-20-09-39-20.png" style="border: 1px solid lightgray"><br/>
+    ![](images/2021-08-20-09-39-20.png)
 
     Certifique-se de que o CD do jogo pode ser encontrado e lido, seja o CD
     físico no drive ou montado no seu sistema.
@@ -178,7 +178,7 @@ no [archive.org](https://archive.org) — inclusive em português!
     https://wincdemu.sysprogs.org/. É gratuito e não costuma vir com malware;
     para garantir, baixe diretamente do site do desenvolvedor.
 
-    <img width=25% src="images/2021-08-20-09-43-16.png" style="border: 1px solid lightgray"><br/>
+    ![](images/2021-08-20-09-43-16.png)
 
 3.  <b>O jogo está sem música.</b>
 
