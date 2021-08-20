@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Missions
+permalink: /games/rising/missions
 parent: Rising Lands
 grand_parent: Games
+nav_order: 5
 has_children: false
-permalink: /games/rising/missions
 ---
 
 # Rising Lands — Missions
