@@ -80,7 +80,8 @@ playlist](https://www.youtube.com/playlist?list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdwB
 with all the game missions. Hope you enjoy it!
 
 <i>E é isso pessoal. Nas outras páginas eu falo mais sobre o jogo, incluindo
-instruções para [rodar o jogo em sistemas modernos](./rising/run). Ah, e não se
-esqueça de dar uma olhada na minha [playlist no
+instruções para [rodar o jogo em sistemas
+modernos](./rising/run#rodando-em-sistemas-modernos). Ah, e não se esqueça de
+dar uma olhada na minha [playlist no
 YouTube](https://www.youtube.com/playlist?list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdwBwY)
 com as missões do jogo. Espero que vocês aproveitem!
