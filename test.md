@@ -15,3 +15,8 @@ def foo
   puts 'foo'
 end
 {% endhighlight %}
+
+```python
+def func():
+    pass
+```
