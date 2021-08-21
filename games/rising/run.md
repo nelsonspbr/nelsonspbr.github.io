@@ -25,20 +25,22 @@ replacing whatever game executable you have by a new one. And well, that might
 ruin things, especially if you are running a version of the game in a different
 language — as far as I am concerned, this fix is only available in English.
 
-There is a solution, however, based on **dgVoodoo2**. This is a graphics wrapper
-that converts old graphics to newer Direct3D versions — and that makes things
-work in newer Windows versions, such as 7/8/10. You may read more about it
-[here](https://github.com/dege-diosg/dgVoodoo2) and
-[here](https://www.pcgamingwiki.com/wiki/DgVoodoo_2). For Rising Lands, that
-allows us to configure **vSync** (Vertical Synchronization) which, as you might
-have guessed, fixes the issue of the game running too fast by capping that speed
-to the monitor's refresh rate.
+There is a solution, however, based on **dgVoodoo2**. This is a graphics
+wrapper that converts old graphics to newer Direct3D versions — and that makes
+things work in newer Windows versions, such as 7/8/10. You may read more about
+it <a href="https://github.com/dege-diosg/dgVoodoo2" target="_blank">here</a>
+and <a href="https://www.pcgamingwiki.com/wiki/DgVoodoo_2"
+target="_blank">here</a>. For Rising Lands, that allows us to configure
+**vSync** (Vertical Synchronization) which, as you might have guessed, fixes
+the issue of the game running too fast by capping that speed to the monitor's
+refresh rate.
 
 This guide assumes the game is already installed — usually under `C:/RISING`. I
-know... installing Rising Lands might be tricky enough, especially if you do not
-have your CD anymore. I must say though, you may find it (in several different
-languages) on [archive.org](https://archive.org). A quick Google search should
-return what you are looking for.
+know... installing Rising Lands might be tricky enough, especially if you do
+not have your CD anymore. I must say though, you may find it (in several
+different languages) on <a href="https://archive.org"
+target="_blank">archive.org</a>. A quick Google search should return what you
+are looking for.
 
 ## Instructions
 
@@ -91,11 +93,13 @@ return what you are looking for.
 
 2.  <b>How do I mount the CD image?</b>
 
-    This is slightly outside the scope of this guide, but suffice to say that if
-    you have an ISO or a CUE/BIN you may use a tool like **WinCDEmu** to mount
-    it in your system. This creates a virtual CD drive that tricks your system
-    into thinking you have a CD inserted. You may find WinCDEmu at
-    https://wincdemu.sysprogs.org/. It is free and should not come with malware.
+    This is slightly outside the scope of this guide, but suffice to say that
+    if you have an ISO or a CUE/BIN you may use a tool like **WinCDEmu** to
+    mount it in your system. This creates a virtual CD drive that tricks your
+    system into thinking you have a CD inserted. You may find WinCDEmu at <a
+    href="https://wincdemu.sysprogs.org/"
+    target="_blank">https://wincdemu.sysprogs.org/</a>. It is free and should
+    not come with malware.
 
     | ![](images/2021-08-20-09-43-16.png) |
     | :---------------------------------: |
@@ -121,17 +125,18 @@ aí não tem graça.
 Felizmente existe uma solução baseada em dgVoodoo2, uma biblioteca que converte
 gráficos antigos em versões mais recentes de Direct3D. Isso faz com que jogos
 antigos passem a funcionar em versões mais novas de Windows, como 7/8/10. Tem
-mais informações sobre essa biblioteca
-[aqui](https://github.com/dege-diosg/dgVoodoo2) e
-[aqui](https://www.pcgamingwiki.com/wiki/DgVoodoo_2). No caso de Rising Lands
-isso permite que a gente configure o **vSync** (sincronização vertical), que faz
-com que o jogo rode na mesma velocidade do monitor — efetivamente resolvendo o
-problema do jogo rodar rápido demais.
+mais informações sobre essa biblioteca <a
+href="https://github.com/dege-diosg/dgVoodoo2" target="_blank">aqui</a> e <a
+href="https://www.pcgamingwiki.com/wiki/DgVoodoo_2" target="_blank">aqui</a>.
+No caso de Rising Lands isso permite que a gente configure o **vSync**
+(sincronização vertical), que faz com que o jogo rode na mesma velocidade do
+monitor — efetivamente resolvendo o problema do jogo rodar rápido demais.
 
-Esse guia assume que o jogo já está instalado — tipicamente em `C:/RISING`. Sim,
-instalar o jogo já pode ser suficientemente complicado, especialmente se você
-não tem mais o CD do jogo. Contudo, vale destacar que é possível encontrar o CD
-no [archive.org](https://archive.org) — inclusive em português!
+Esse guia assume que o jogo já está instalado — tipicamente em `C:/RISING`.
+Sim, instalar o jogo já pode ser suficientemente complicado, especialmente se
+você não tem mais o CD do jogo. Contudo, vale destacar que é possível encontrar
+o CD no <a href="https://archive.org" target="_blank">archive.org</a> —
+inclusive em português!
 
 ## Instruções
 
@@ -183,12 +188,14 @@ no [archive.org](https://archive.org) — inclusive em português!
 
 2.  <b>Como eu monto uma imagem de CD?</b>
 
-    Isso é um pouco fora do escopo desse guia, mas se você tem um arquivo ISO ou
-    CUE/BIN você pode usar uma ferramenta como o **WinCDEmu** para montar a
+    Isso é um pouco fora do escopo desse guia, mas se você tem um arquivo ISO
+    ou CUE/BIN você pode usar uma ferramenta como o **WinCDEmu** para montar a
     imagem no sistema. Isso cria um drive virtual que faz com que o sistema
-    pense que existe um CD inserido. Você pode encontrar o WinCDEmu em
-    https://wincdemu.sysprogs.org/. É gratuito e não costuma vir com malware;
-    para garantir, baixe diretamente do site do desenvolvedor.
+    pense que existe um CD inserido. Você pode encontrar o WinCDEmu em <a
+    href="https://wincdemu.sysprogs.org/"
+    target="_blank">https://wincdemu.sysprogs.org/</a>. É gratuito e não
+    costuma vir com malware; para garantir, baixe diretamente do site do
+    desenvolvedor.
 
     | ![](images/2021-08-20-09-43-16.png) |
     | :---------------------------------: |
