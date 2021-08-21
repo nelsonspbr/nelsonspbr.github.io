@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Games
-has_children: true
 permalink: /games
+has_children: true
+has_toc: false
 ---
 
 # Games
