@@ -12,7 +12,7 @@ has_children: false
 
 ## Playthrough
 
-Playlist: [https://www.youtube.com/playlist?list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdwBwY](https://www.youtube.com/playlist?list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdwBwY)
+**Playlist**: [https://www.youtube.com/playlist?list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdwBwY](https://www.youtube.com/playlist?list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdwBwY)
 
 | Mission | Sinopse                                                    |                                                 Link                                                 |
 | :------ | :--------------------------------------------------------- | :--------------------------------------------------------------------------------------------------: |
@@ -41,3 +41,11 @@ Playlist: [https://www.youtube.com/playlist?list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdw
 | 23      | Reativar a biblioteca no sudeste                           | [link](https://www.youtube.com/watch?v=TeWvV48RSMs&list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdwBwY&index=23) |
 | 24      | Construir santuário no sudeste                             | [link](https://www.youtube.com/watch?v=pQs6jV4B8nE&list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdwBwY&index=24) |
 | 25      | Destruir clãs inimigos                                     | [link](https://www.youtube.com/watch?v=iD2bdU3wBlM&list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdwBwY&index=25) |
+
+## Misc
+
+* All buildings (*todas as construções*)
+  [https://www.youtube.com/watch?v=3eaWfbtbNKQ&list=PLf2yslxcPQHnvZSRsE2fP-Q9nQr2DoEh7&index=1](https://www.youtube.com/watch?v=3eaWfbtbNKQ&list=PLf2yslxcPQHnvZSRsE2fP-Q9nQr2DoEh7&index=1)
+
+* All units (*todas as unidades*)
+  [https://www.youtube.com/watch?v=7WqYh1T2buI&list=PLf2yslxcPQHnvZSRsE2fP-Q9nQr2DoEh7&index=2](https://www.youtube.com/watch?v=7WqYh1T2buI&list=PLf2yslxcPQHnvZSRsE2fP-Q9nQr2DoEh7&index=2)
