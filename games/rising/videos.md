@@ -12,9 +12,9 @@ has_children: false
 
 ## Playthrough
 
-| Playlist                                                                                                                                                                                |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://www.youtube.com/playlist?list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdwBwY" target="_blank">[link](https://www.youtube.com/playlist?list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdwBwY)</a> |
+| Playlist                                                                                                                                                                        |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://www.youtube.com/playlist?list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdwBwY" target="_blank">https://www.youtube.com/playlist?list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdwBwY</a> |
 
 | Mission | Sinopse                                                    |                                                              Link                                                               |
 | :------ | :--------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------: |
@@ -47,7 +47,7 @@ has_children: false
 ## Misc
 
 * All buildings (*todas as construções*)
-  <a href="https://www.youtube.com/watch?v=3eaWfbtbNKQ&list=PLf2yslxcPQHnvZSRsE2fP-Q9nQr2DoEh7&index=1" target="_blank">link</a>
+  <a href="https://www.youtube.com/watch?v=3eaWfbtbNKQ&list=PLf2yslxcPQHnvZSRsE2fP-Q9nQr2DoEh7&index=1" target="_blank">https://www.youtube.com/watch?v=3eaWfbtbNKQ&list=PLf2yslxcPQHnvZSRsE2fP-Q9nQr2DoEh7&index=1</a>
 
 * All units (*todas as unidades*)
-  <a href="https://www.youtube.com/watch?v=7WqYh1T2buI&list=PLf2yslxcPQHnvZSRsE2fP-Q9nQr2DoEh7&index=2" target="_blank">link</a>
+  <a href="https://www.youtube.com/watch?v=7WqYh1T2buI&list=PLf2yslxcPQHnvZSRsE2fP-Q9nQr2DoEh7&index=2" target="_blank">https://www.youtube.com/watch?v=7WqYh1T2buI&list=PLf2yslxcPQHnvZSRsE2fP-Q9nQr2DoEh7&index=2</a>
