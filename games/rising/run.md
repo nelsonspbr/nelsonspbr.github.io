@@ -44,8 +44,8 @@ return what you are looking for.
 
 1.  First, download the latest version of dgVoodoo2 from
     http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/. Today, *Aug 20, 2021*, the
-    current version is 2.75.1. If you want a direct link to it,
-    [here it is](http://dege.freeweb.hu/dgVoodoo2/bin/dgVoodoo2_75_1.zip).
+    current version is 2.75.1. If you want a direct link to it, click
+    [here](http://www.dege.freeweb.hu/dgVoodoo2/bin/dgVoodoo2_75_1.zip).
 
     | ![](images/2021-08-20-09-15-23.png) |
     | :---------------------------------: |
