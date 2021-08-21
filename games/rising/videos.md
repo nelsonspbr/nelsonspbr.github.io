@@ -10,6 +10,10 @@ has_children: false
 
 # Videos
 
+## Playthrough
+
+Playlist: [https://www.youtube.com/playlist?list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdwBwY](https://www.youtube.com/playlist?list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdwBwY)
+
 | Mission | Sinopse                                                    |                                                 Link                                                 |
 | :------ | :--------------------------------------------------------- | :--------------------------------------------------------------------------------------------------: |
 | 1       | Estocar 50 comidas e 50 pedras                             | [link](https://www.youtube.com/watch?v=jAYlHrkmh6s&list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdwBwY&index=1)  |
