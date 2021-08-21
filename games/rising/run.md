@@ -43,7 +43,7 @@ return what you are looking for.
 ## Instructions
 
 1.  First, download the latest version of dgVoodoo2 from
-    [http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/).
+    <a href="http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/" target="_blank">http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/</a>.
     Today, *Aug 20, 2021*, the current version is 2.75.1.
 
     | ![](images/2021-08-20-09-15-23.png) |
@@ -136,7 +136,7 @@ no [archive.org](https://archive.org) — inclusive em português!
 ## Instruções
 
 1.  Primeiro, baixe a versão mais recente do dgVoodoo disponível em
-    [http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/).
+    <a href="http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/" target="_blank">http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/</a>.
     Hoje, dia 20 de agosto de 2021, a última versão é 2.75.1.
 
     | ![](images/2021-08-20-09-15-23.png) |
