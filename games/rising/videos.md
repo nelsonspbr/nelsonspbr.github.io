@@ -12,7 +12,9 @@ has_children: false
 
 ## Playthrough
 
+<br/>
 **Playlist**: [https://www.youtube.com/playlist?list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdwBwY](https://www.youtube.com/playlist?list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdwBwY)
+<br/>
 
 | Mission | Sinopse                                                    |                                                 Link                                                 |
 | :------ | :--------------------------------------------------------- | :--------------------------------------------------------------------------------------------------: |
