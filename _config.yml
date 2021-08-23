@@ -3,3 +3,7 @@ remote_theme: pmarsceill/just-the-docs
 heading_anchors: true
 back_to_top: true
 back_to_top_text: "Top"
+
+# Google Analytics Tracking
+ga_tracking: G-2JYDT53BXW
+ga_tracking_anonymize_ip: true
