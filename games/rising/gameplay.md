@@ -43,12 +43,14 @@ has_children: false
 
   | <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/construtores-construindo.mp4" type="video/mp4"></video> |
   | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+  |                                                                                             Construtores construindo                                                                                              |
 
 - Construtores podem reparar edifícios danificados. Os reparos são gratuitos,
   isto é, não consomem recursos de jogo.
 
   | <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/construtores-reparando.mp4" type="video/mp4"></video> |
   | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+  |                                                                                             Construtores reparando                                                                                              |
 
 - De maneira similar, Mecânicos podem reparar veículos danificados. É possível
   usar vários Mecânicos parar reparar um mesmo veículo. Há uma limitação,
@@ -58,6 +60,7 @@ has_children: false
 
   | <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/reparo-half-full.mp4" type="video/mp4"></video> |
   | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+  |                                                                                            Mecânicos reparando                                                                                            |
 
 ## Recursos
 
@@ -102,6 +105,8 @@ Cada recurso é coletado por unidades específicas:
 A coleta em si é feita utilizando o mouse e a tecla CTRL. Basta clicar na
 unidade e, mantendo a tecla CTRL pressionada, clicar na origem do recurso, e
 posteriormente no destino. Os exemplos abaixo mostram esse processo.
+
+<video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/coleta-comida.mp4" type="video/mp4"></video>
 
 | <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/coleta-comida.mp4" type="video/mp4"></video> |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
