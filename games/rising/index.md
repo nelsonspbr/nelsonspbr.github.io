@@ -78,7 +78,12 @@ And that is it for introduction. In the other pages you will find more
 information about the game, including how to [run it on modern
 systems](./rising/run). Also, make sure to check my [YouTube
 playlist](https://www.youtube.com/playlist?list=PLf2yslxcPQHn40RMAUIOJU_RiCwMdwBwY)
-with all the game missions. Hope you enjoy it!
+with all the game missions. Hope you enjoy it! Oh and a quick final note, some
+of the pages might be in English and Portuguese while others might be only in
+Portuguese. I will be translating these eventually, but please let me know if
+you would like to see a specific page translated. I am writing the Portuguese
+version first since I played the game in Portuguese and most of the people I
+interact with that played the game are from Brazil.
 
 <i>E é isso pessoal. Nas outras páginas eu falo mais sobre o jogo, incluindo
 instruções para [rodar o jogo em sistemas
