@@ -21,6 +21,7 @@ devem ser constantemente protegidas por outras unidades militares.
 
 | ![](units/colono/colono.gif) |
 | :--------------------------: |
+|            Colono            |
 
 O Colono é a unidade fundamental do jogo, a partir da qual todas as outras (com
 exceção das unidades aéreas) são treinadas. A mecânica de recrutamento de novos
@@ -34,16 +35,19 @@ Colonos em outras unidades, caso contrário não é possível recrutar mais Colo
 
 | ![](units/fazendeiro/fazendeiro.gif) |
 | :----------------------------------: |
+|              Fazendeiro              |
 
 ### Mecânico
 
 | ![](units/mecanico/mecanico.gif) |
 | :------------------------------: |
+|             Mecânico             |
 
 ### Construtor
 
 | ![](units/construtor/construtor.gif) |
 | :----------------------------------: |
+|              Construtor              |
 
 ## Infantaria
 
@@ -51,21 +55,25 @@ Colonos em outras unidades, caso contrário não é possível recrutar mais Colo
 
 | ![](units/soldado/soldado.gif) |
 | :----------------------------: |
+|            Soldado             |
 
 ### Incendiário
 
 | ![](units/incendiario/incendiario.gif) |
 | :------------------------------------: |
+|              Incendiário               |
 
 ### Arqueiro
 
 | ![](units/arqueiro/arqueiro.gif) |
 | :------------------------------: |
+|             Arqueiro             |
 
 ### Capitão
 
 | ![](units/capitao/capitao.gif) |
 | :----------------------------: |
+|            Capitão             |
 
 ## Cavalaria
 
@@ -73,11 +81,13 @@ Colonos em outras unidades, caso contrário não é possível recrutar mais Colo
 
 | ![](units/dellorso/dellorso.gif) |
 | :------------------------------: |
+|            Dell'Orso             |
 
 ### Rhino
 
 | ![](units/rhino/rhino.gif) |
 | :------------------------: |
+|           Rhino            |
 
 ## Mecânicas
 
@@ -85,26 +95,31 @@ Colonos em outras unidades, caso contrário não é possível recrutar mais Colo
 
 | ![](units/speeder/speeder.gif) |
 | :----------------------------: |
+|            Speeder             |
 
 ### Bunker
 
 | ![](units/bunker/bunker.gif) |
 | :--------------------------: |
+|            Bunker            |
 
 ### Ceifeiro
 
 | ![](units/ceifeiro/ceifeiro.gif) |
 | :------------------------------: |
+|             Ceifeiro             |
 
 ### Bombardeiro
 
 | ![](units/bombardeiro/bombardeiro.gif) |
 | :------------------------------------: |
+|              Bombardeiro               |
 
 ### Sun
 
 | ![](units/sun/sun.gif) |
 | :--------------------: |
+|          Sun           |
 
 ## Mágicas
 
@@ -112,6 +127,7 @@ Colonos em outras unidades, caso contrário não é possível recrutar mais Colo
 
 | ![](units/druida/druida.gif) |
 | :--------------------------: |
+|            Druida            |
 
 ## Aéreas
 
@@ -119,8 +135,42 @@ Colonos em outras unidades, caso contrário não é possível recrutar mais Colo
 
 | ![](units/balao/balao-full.gif) |
 | :-----------------------------: |
+|              Balão              |
 
 ### Helicóptero
 
 | ![](units/helicoptero/helicoptero-full.gif) |
 | :-----------------------------------------: |
+|                 Helicóptero                 |
+
+## Criaturas das Sombras
+
+### Raptor
+
+| ![](units/raptor/raptor.gif) |
+| :--------------------------: |
+|            Raptor            |
+
+### Bukka
+
+| ![](units/druida/bukka.gif) |
+| :-------------------------: |
+|            Bukka            |
+
+### Lançador
+
+| ![](units/lancador/lancador.gif) |
+| :------------------------------: |
+|             Lançador             |
+
+### Esmagador
+
+| ![](units/esmagador/esmagador.gif) |
+| :--------------------------------: |
+|             Esmagador              |
+
+### Estalador
+
+| ![](units/estalador/estalador.gif) |
+| :--------------------------------: |
+|             Estalador              |
