@@ -25,7 +25,7 @@ devem ser constantemente protegidas por outras unidades militares.
 
 O Colono é a unidade fundamental do jogo, a partir da qual todas as outras (com
 exceção das unidades aéreas) são treinadas. A mecânica de recrutamento de novos
-colonos é discutida com maior amplitude [aqui](./gameplay#populacao]). Vale
+colonos é discutida com maior amplitude [aqui](./gameplay#população). Vale
 ressaltar a importância de ter uma cadência saudável de criação de novos Colonos
 para que sua economia (e seu exército) possam crescer de acordo com a demanda.
 Também vale destacar a necessidade de tomar cuidado para não converter todos os
