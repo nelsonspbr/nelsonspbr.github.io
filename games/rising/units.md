@@ -153,9 +153,9 @@ Colonos em outras unidades, caso contrário não é possível recrutar mais Colo
 
 ### Bukka
 
-| ![](units/druida/bukka.gif) |
-| :-------------------------: |
-|            Bukka            |
+| ![](units/bukka/bukka.gif) |
+| :------------------------: |
+|           Bukka            |
 
 ### Lançador
 
