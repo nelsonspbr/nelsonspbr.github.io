@@ -106,8 +106,6 @@ A coleta em si é feita utilizando o mouse e a tecla CTRL. Basta clicar na
 unidade e, mantendo a tecla CTRL pressionada, clicar na origem do recurso, e
 posteriormente no destino. Os exemplos abaixo mostram esse processo.
 
-<video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/coleta-comida.mp4" type="video/mp4"></video>
-
 | <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/coleta-comida.mp4" type="video/mp4"></video> |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                            Coleta de Comida                                                                                            |
@@ -153,6 +151,7 @@ posteriormente pode ser retirado da Cultura e usado para outro fim.
 
 | <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/cultura-enchendo.mp4" type="video/mp4"></video> |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                         Recrutando novos Colonos                                                                                          |
 
 Também é possível redefinir (*reset*) unidades, transformando-nas de volta em
 Colonos. Isso é feito através do Santuário. Apenas unidades à pé podem passar
@@ -161,6 +160,7 @@ exemplo abaixo mostra esse processo aplicado a um Soldado.
 
 | <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/reset-unit.mp4" type="video/mp4"></video> |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                        Redefinindo unidades                                                                                         |
 
 Por fim, vale notar que embora treinar unidades na Oficina consuma um Colono, o
 Colono ainda "existe" e pode ser "acessado" (retirado do veículo) através de um
@@ -170,6 +170,7 @@ abaixo.
 
 | <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/colono-veiculo.mp4" type="video/mp4"></video> |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                           Pilotando veículos                                                                                            |
 
 ## Diplomacia
 
