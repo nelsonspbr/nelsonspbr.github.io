@@ -106,13 +106,13 @@ A coleta em si é feita utilizando o mouse e a tecla CTRL. Basta clicar na
 unidade e, mantendo a tecla CTRL pressionada, clicar na origem do recurso, e
 posteriormente no destino. Os exemplos abaixo mostram esse processo.
 
-| <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/coleta-comida.mp4" type="video/mp4"></video> |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                            Coleta de Comida                                                                                            |
+| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/coleta-comida.mp4" type="video/mp4"></video> |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                  Coleta de Comida                                                                                                   |
 
-| <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/coleta-pedras.mp4" type="video/mp4"></video> |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                            Coleta de Pedras                                                                                            |
+| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/coleta-pedras.mp4" type="video/mp4"></video> |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                  Coleta de Pedras                                                                                                   |
 
 Algumas observações pertinentes:
 
