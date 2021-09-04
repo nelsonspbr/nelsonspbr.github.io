@@ -43,9 +43,9 @@ Esta página descreve um pouco os comandos e mecânicas gerais do jogo.
 - Construtores podem tanto iniciar uma construção como retomá-la. Vários
   Construtores podem participar da mesma obra, acelerando a construção da mesma.
 
-  | <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/construtores-construindo.mp4" type="video/mp4"></video> |
-  | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-  |                                                                                                    Construtores construindo                                                                                                    |
+  | <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/construtores-construindo.mp4" type="video/mp4"></video> |
+  | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+  |                                                                                             Construtores construindo                                                                                              |
 
 - Construções podem ser demolidas. Ao fazê-lo você irá recuperar metade dos
   recursos gastos na construção. Isso é particularmente útil em missões com
@@ -55,16 +55,16 @@ Esta página descreve um pouco os comandos e mecânicas gerais do jogo.
   danos — talvez seja uma boa idéia deixar apenas um Colono dentro da construção
   antes de demolí-la.
 
-  | <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/demolir.mp4" type="video/mp4"></video> |
-  | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-  |                                                                                              Construção demolida                                                                                              |
+  | <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/demolir.mp4" type="video/mp4"></video> |
+  | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+  |                                                                                       Construção demolida                                                                                        |
 
 - Construtores podem reparar edifícios danificados. Os reparos são gratuitos,
   isto é, não consomem recursos de jogo.
 
-  | <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/construtores-reparando.mp4" type="video/mp4"></video> |
-  | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-  |                                                                                                    Construtores reparando                                                                                                    |
+  | <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/construtores-reparando.mp4" type="video/mp4"></video> |
+  | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+  |                                                                                             Construtores reparando                                                                                              |
 
 - De maneira similar, Mecânicos podem reparar veículos danificados. É possível
   usar vários Mecânicos parar reparar um mesmo veículo. Há uma limitação,
@@ -72,9 +72,9 @@ Esta página descreve um pouco os comandos e mecânicas gerais do jogo.
   unidade. Para reparar um veículo completamente é necessário levá-lo até uma
   Garagem.
 
-  | <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/reparo-half-full.mp4" type="video/mp4"></video> |
-  | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-  |                                                                                                  Mecânicos reparando                                                                                                   |
+  | <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/reparo-half-full.mp4" type="video/mp4"></video> |
+  | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+  |                                                                                            Mecânicos reparando                                                                                            |
 
 ## Recursos
 
@@ -184,18 +184,18 @@ verticais). Os slots horizontais são unidades de Comida. No exemplo a Cultura
 deve ser preenchida por 3+1 Comidas para gerar um novo Colono, que
 posteriormente pode ser retirado da Cultura e usado para outro fim.
 
-| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/cultura-enchendo.mp4" type="video/mp4"></video> |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                Recrutando novos Colonos                                                                                                |
+| <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/cultura-enchendo.mp4" type="video/mp4"></video> |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                         Recrutando novos Colonos                                                                                          |
 
 Também é possível redefinir (*reset*) unidades, transformando-nas de volta em
 Colonos. Isso é feito através do Santuário. Apenas unidades à pé podem passar
 por esse processo — unidades montadas como o Dell'Orso e o Rhino não podem. O
 exemplo abaixo mostra esse processo aplicado a um Soldado.
 
-| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/reset-unit.mp4" type="video/mp4"></video> |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                               Redefinindo unidades                                                                                               |
+| <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/reset-unit.mp4" type="video/mp4"></video> |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                        Redefinindo unidades                                                                                         |
 
 Por fim, vale notar que embora treinar unidades na Oficina consuma um Colono, o
 Colono ainda "existe" e pode ser "acessado" (retirado do veículo) através de um
@@ -203,9 +203,9 @@ duplo-clique no veículo. Nessa mesma linha, também é possível colocar qualqu
 unidade a pé para "pilotar" o veículo. Essas ações são mostradas no exemplo
 abaixo.
 
-| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/colono-veiculo.mp4" type="video/mp4"></video> |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                  Pilotando veículos                                                                                                  |
+| <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/colono-veiculo.mp4" type="video/mp4"></video> |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                           Pilotando veículos                                                                                            |
 
 ## Unidades e Alimentação
 
@@ -261,9 +261,9 @@ aparecem de vez em quando aleatoriamente pelo mapa. Esse "aparecer" — *spawn*;
 provavelmente vou usar esse termo aportuguesado em alguns momentos — é animado
 com uma fumaça. Consegui capturar esse momento no exemplo abaixo.
 
-| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/grupo-assassinos.mp4" type="video/mp4"></video> |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                            Grupo dos Assassinos *spawnando*                                                                                            |
+| <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/grupo-assassinos.mp4" type="video/mp4"></video> |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                     Grupo dos Assassinos *spawnando*                                                                                      |
 
 Na missão 1 creio que apareçam apenas Soldados. Já na 2 começam a aparecer
 Arqueiros. Não sei já na quarta missão aparecem Incendiários, mas com certeza a
@@ -375,33 +375,33 @@ exploração. Bom, mas tratando-se de alianças a idéia é trazer o Mensageiro 
 Santuário do outro clã. Ou a aliança é aceita pelo outro clã ou não, conforme
 vemos abaixo.
 
-| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/alianca-aceita.mp4" type="video/mp4"></video> |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                           Aliança aceita pelo clã Vermelho                                                                                           |
+| <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/alianca-aceita.mp4" type="video/mp4"></video> |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                    Aliança aceita pelo clã Vermelho                                                                                     |
 
 Uma mensagem aparece no centro inferior da tela avisando que a aliança foi
 firmada. Uma bandeira com a cor do clã com o qual a aliança foi estabelecida
 aparece no canto inferior direito da tela. Por fim, uma claquete aparece no
 canto inferior esquerdo — se clicada ela exibe o vídeo reproduzido abaixo.
 
-| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/alianca-aceita-rising.mp4" type="video/mp4"></video> |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                        Vídeo do jogo                                                                                                        |
+| <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/alianca-aceita-rising.mp4" type="video/mp4"></video> |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                 Vídeo do jogo                                                                                                  |
 
 Se a aliança é rejeitada a mensagem muda, conforme vemos abaixo. E claro, nada
 de bandeira ou claquete.
 
-| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/alianca-rejeita.mp4" type="video/mp4"></video> |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                           Aliança rejeitada pelo clã Verde                                                                                            |
+| <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/alianca-rejeita.mp4" type="video/mp4"></video> |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                     Aliança rejeitada pelo clã Verde                                                                                     |
 
 Também é possível que outros clãs enviem Mensageiros até você. Note que neste
 caso é necessário que você tenha um Santuário ativo (i.e., com um Colono
 dentro). Consegui capturar esse momento no vídeo abaixo.
 
-| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/alianca-incoming.mp4" type="video/mp4"></video> |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                           Aliança proposta pelo clã Vermelho                                                                                           |
+| <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/alianca-incoming.mp4" type="video/mp4"></video> |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                    Aliança proposta pelo clã Vermelho                                                                                     |
 
 Neste caso, assim que o Mensageiro entra no seu Santuário a mensagem aparece e
 uma bandeira piscante surge no canto inferior direito da tela. Caso você clique
@@ -410,18 +410,18 @@ na bandeira a aliança é estabelecida. Caso não o faça, ela é rejeitada.
 O último ato diplomático é a quebra de alianças. Essa é fácil, basta atacar uma
 unidade ou edifício do outro clã, como vemos abaixo.
 
-| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/alianca-quebrada.mp4" type="video/mp4"></video> |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                          Aliança com clã Vermelho é quebrada                                                                                           |
+| <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/alianca-quebrada.mp4" type="video/mp4"></video> |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                    Aliança com clã Vermelho é quebrada                                                                                    |
 
 A bandeira no canto inferior direito é removida e uma mensagem é mostrada na
 tela. Aparece também a claquete que apresenta o vídeo reproduzido abaixo. Note
 que, pelo menos na minha versão do jogo, todos os vídeos de quebra de aliança
 mostram a bandeira verde.
 
-| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/alianca-quebrada-rising.mp4" type="video/mp4"></video> |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                         Vídeo do jogo                                                                                                         |
+| <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/alianca-quebrada-rising.mp4" type="video/mp4"></video> |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                  Vídeo do jogo                                                                                                   |
 
 ## Comércio
 
@@ -431,9 +431,9 @@ do jogo não seja tão intuitiva. O primeiro passo é enviar um Mercador até o
 Mercado do outro clã. Uma cartola irá aparecer no canto inferior esquerdo da
 tela. Clique nela.
 
-| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/comercio-1.mp4" type="video/mp4"></video> |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                            Mercador inicia transação                                                                                             |
+| <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/comercio-1.mp4" type="video/mp4"></video> |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                      Mercador inicia transação                                                                                      |
 
 Uma pequena interface será mostrada, permitindo que você especifique o que
 deseja enviar e o que deseja oferecer. É possível trocar unidades e recursos.
@@ -444,9 +444,9 @@ indica se o clã está satisfeito ou não com a oferta. Se a barra estiver cheia
 basta clicar em OK e concluir a negociação. Caso contrário será necessário
 oferecer mais unidades ou recursos.
 
-| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/comercio-2.mp4" type="video/mp4"></video> |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                              Transação é negociada                                                                                               |
+| <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/comercio-2.mp4" type="video/mp4"></video> |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                        Transação é negociada                                                                                        |
 
 Após o fim da negociação é hora de efetuar a transação. No caso de recursos
 nada precisa ser feito, os recursos saem diretamente dos seus estoques. Mas no
@@ -455,9 +455,9 @@ Arqueiros, basta escolher quaisquer dois Arqueiros que eu tenha a disposição e
 enviá-los ao Hangar. Quando o meu lado está pronto a transação é concluída e eu
 recebo a contraparte — um Dell'Orso.
 
-| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/comercio-3.mp4" type="video/mp4"></video> |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                               Transação é efetuada                                                                                               |
+| <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/comercio-3.mp4" type="video/mp4"></video> |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                        Transação é efetuada                                                                                         |
 
 ## Espionagem
 
@@ -479,21 +479,21 @@ esse problema — mas compartilham do mesmo problema do *fix* para reduzir a
 velocidade do jogo, acabam também interferindo na língua do mesmo.  Contudo, há
 uma solução, conforme mostro no exemplo abaixo.
 
-| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/roubo-recurso-sucesso.mp4" type="video/mp4"></video> |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                Roubando recursos do Armazém                                                                                                 |
+| <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/roubo-recurso-sucesso.mp4" type="video/mp4"></video> |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                          Roubando recursos do Armazém                                                                                          |
 
 Basta posicionar a barra inferior de modo a sobrepor a construção a ser
 roubada. Isso evita que o cursor do mouse passe pela "terra", que é o que
 aparentemente quebra o jogo. No exemplo acima consegui roubar 27 Comidas. No
 abaixo a tentativa de roubo falhou:
 
-| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/roubo-recurso-falha.mp4" type="video/mp4"></video> |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                              Falha ao tentar roubar recursos                                                                                              |
+| <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/roubo-recurso-falha.mp4" type="video/mp4"></video> |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                       Falha ao tentar roubar recursos                                                                                        |
 
 E claro, um exemplo de roubo de tecnologia com sucesso:
 
-| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/roubo-tecnologia-sucesso.mp4" type="video/mp4"></video> |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                      Tecnologia roubada!                                                                                                       |
+| <video max-width=100% autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/roubo-tecnologia-sucesso.mp4" type="video/mp4"></video> |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                       Tecnologia roubada!                                                                                                        |
