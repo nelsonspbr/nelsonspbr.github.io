@@ -10,6 +10,8 @@ has_children: false
 
 # Visão Geral
 
+Esta página descreve um pouco os comandos e mecânicas gerais do jogo.
+
 ## Movimentação e Ações
 
 - A movimentação de unidades é feita através do mouse. Unidades e construções
@@ -45,6 +47,18 @@ has_children: false
   | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
   |                                                                                             Construtores construindo                                                                                              |
 
+- Construções podem ser demolidas. Ao fazê-lo você irá recuperar metade dos
+  recursos gastos na construção. Isso é particularmente útil em missões com
+  escassez de recursos e/ou impossibilidade de coletar mais recursos, como nas
+  missões 8, 17, e 23. Para demolir uma construção basta segurar a tecla DELETE
+  e clicar na construção. Note que as unidades dentro da construção irão sofrer
+  danos — talvez seja uma boa idéia deixar apenas um Colono dentro da construção
+  antes de demolí-la.
+
+  | <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/demolir.mp4" type="video/mp4"></video> |
+  | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+  |                                                                                       Construção demolida                                                                                        |
+
 - Construtores podem reparar edifícios danificados. Os reparos são gratuitos,
   isto é, não consomem recursos de jogo.
 
@@ -63,6 +77,25 @@ has_children: false
   |                                                                                            Mecânicos reparando                                                                                            |
 
 ## Recursos
+
+> Em Rising Lands não existe dinheiro. A única forma de intercâmbio monetário é
+> feita com os Recursos disponíveis, que podem ser de três tipos. Estes são
+> essenciais, mas raros: você deve administrá-los astutamente ou arcar com as
+> conseqüências. Você pode estocá-los, trocá-los ou roubá-los durante o jogo:
+>
+> - Comida - colhida nos campos pelo Fazendeiro, ela alimenta sua população e
+>   leva colonizadores errantes de volta ao seu núcleo. Além disso, ela vai
+>   ajudá-lo a levar a cabo seus planos de construção (veículos e edificações) e
+>   de treinamento dos seus Colonizadores.
+>
+> - Pedras - o Construtor pode extrair Pedras das minas localizadas embaixo das
+>   montanhas e então usá-las para construir edificações.
+>
+> - Restos de Metal - Restos de Metal da antiga civilização podem ser
+>   encontrados em toda a parte. Mecânicos podem recolhê-los e usá-los na
+>   construção de veículos.
+
+<p style="text-align: right"><i>— manual do jogo</i></p>
 
 Como todo bom jogo de estratégia, os recursos em Rising Lands são fundamentais
 para construir suas bases e treinar unidades. Rising Lands define três recursos:
@@ -114,7 +147,8 @@ posteriormente no destino. Os exemplos abaixo mostram esse processo.
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                  Coleta de Pedras                                                                                                   |
 
-Algumas observações pertinentes:
+Tipicamente isso é feito com o destino sendo um Armazém ou Cultura. Algumas
+observações pertinentes:
 
 - Comida e Pedras podem ser coletadas tanto do chão quanto de suas fontes
   específicas (Vegetais e Minas, respectivamente).
@@ -131,7 +165,8 @@ Algumas observações pertinentes:
   importante ter Mecânicos buscando Partes Mecânicas pelo mapa e também
   coletando quaisquer partes deixadas por veículos destruídos em combate.
 
-## Construção
+- Armazéns tem uma capacidade finita. Para conseguir estocar mais recursos é
+  necessário construir mais Armazéns.
 
 ## População
 
@@ -172,7 +207,154 @@ abaixo.
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                           Pilotando veículos                                                                                            |
 
+## Unidades e Alimentação
+
+- barra de espaço = stats
+- barra de vida
+- pontos de experiência
+- pizza
+
+> Unidades militares adquirem pontos de experiência, que aparecem na forma de
+> pequenos triângulos junto ao gráfico de Comida.
+> Uma unidade militar pode adquirir um máximo de 4 pontos de experiência:
+>
+> - nenhum triângulo: a unidade não possui pontos de experiência
+> - 1 triângulo: maior força de ataque
+> - 2 triângulos: armadura reforçada
+> - 3 triângulos: perímetro de visão aumentado
+> - 4 triângulos: consome menos Comida
+
+<p style="text-align: right"><i>— manual do jogo</i></p>
+
+Um comando que pode ser útil em algumas situações, é possível forçar que suas
+unidades comam — desde que a pizza esteja pelo menos com um pedaço faltando.
+Basta pressionar a tecla **E**. Isso por ajudar, por exemplo, quando você quiser
+"sincronizar" a alimentação de um grupo de unidades antes de movê-las.
+
+<!-- TODO: Adicionar vídeo disso -->
+
+## Pesquisa Científica
+
+- Agricultura
+- Civil
+- Militar
+- Magia
+
+## Grupo dos Assassinos
+
+> Uma gangue de guerreiros assassinos, os membros da Liga dos Assassinos não se
+> importam com nada... excetuando-se pilhagem. Eles nunca constroem vilas ou
+> estabelecem campos. A Liga, entretanto, pode ser descompromissada em seus
+> negócios por possuir um segredo que lhes dá acesso ao [...] mundo
+> doente das Criaturas das Sombras. A melhor forma de livrar a terra de seu
+> rastro pútrido é matá-los sem piedade.
+
+<p style="text-align: right"><i>— manual do jogo</i></p>
+
+O Grupo dos Assassinos (ou Liga dos Assassinos, ou ainda Confraria dos
+Assassinos) aparece desde a primeira missão. São unidades com escudo preto que
+aparecem de vez em quando aleatoriamente pelo mapa. Esse "aparecer" — *spawn*;
+provavelmente vou usar esse termo aportuguesado em alguns momentos — é animado
+com uma fumaça. Consegui capturar esse momento no exemplo abaixo.
+
+| <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/grupo-assassinos.mp4" type="video/mp4"></video> |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                     Grupo dos Assassinos *spawnando*                                                                                      |
+
+Na missão 1 creio que apareçam apenas Soldados. Já na 2 começam a aparecer
+Arqueiros. Não sei já na quarta missão aparecem Incendiários, mas com certeza a
+partir da quinta eles aparecem. Esses grupos, tipicamente de 1-3 unidades, ou
+irão alvejar um de seus Armazéns, ou uma unidade específica. É um inimigo que
+atrapalha mais durante o começo do jogo, ou quando você tem uma expansão para
+extração de recursos sem boas defesas. É importante sempre manter algumas
+unidades militares protegendo suas unidades econômicas em todo tempo.
+
+## Criaturas das Sombras
+
+> Um manuscrito antigo faz menção a um fenômeno bizarro que você irá certamente
+> descobrir. O que se segue é uma evidência reveladora e apavorante...
+>
+> Para todos os cidadãos da terra - Por favor, permitam que me apresente. Sou um
+> viajante solitário que está preste a sair em uma jornada da qual posso não
+> voltar jamais. Deixarei este como um último testemunho, pois posso não voltar
+> de onde estou indo para avisar os humanos deste grave perigo... De longe eu
+> sinto uma fumaça acre, seu odor avisando-me que entrei na zona morta. Me
+> aproximo com extremo cuidado e logo meus piores medos transformam-se em um
+> grotesco pesadelo acordado... tudo é esquecimento... Corpos estão espalhados
+> pelos fragmentos das ruínas, tão cortados e rasgados que se torna impossível a
+> identificação. Mas uma pobre alma ainda vive, pois ouço uma respiração
+> trabalhosa, pesada e entrecortada. Encontro-o, enterrado profundamente entre
+> as pedras esmigalhadas. Ele grita... Desesperado, tremendo, morrendo... "Fuja,
+> seu tolo... Eles irão voltar... novamente...." Peço-lhe para dizer-me mais.
+> Ele é tomado por grande medo ao lembrar-se do terror. Logo os espasmos
+> passam, à medida que controla sua insanidade. Ele começa a relatar um assalto
+> realizado por bestas totalmente aterradoras, homens massacrando tudo ao seu
+> redor, um estranho dragão místico, um mutante montado em um javali africano
+> lançando pedras e uma e uma tartaruga gigante... Seu peito esmagado move-se
+> com grande esforço em seu suspiro final. Deixo os mortos e examino a terra,
+> onde encontro traços que parecem corroborar sua história trágica. Devo escapar
+> agora, enquanto ainda há tempo.
+>
+> Mas… Espere! Ouço gritos ásperos e vozes cruéis que congelariam seu sangue...
+>
+> Adeus... E cuidado!!!
+>
+> P.S. - Se essas coisas forem verdade, não desejo que nem mesmo meu maior
+> inimigo sinta a ira das "Criaturas das Sombras"...
+
+<p style="text-align: right"><i>— manual do jogo</i></p>
+
+Similar ao Grupo dos Assassinos, as Criaturas das Sombras também tem escudo
+preto e aparecem aleatoriamente no mapa para atacar os jogadores — humanos e
+computadores. São cinco tipos de unidades:
+
+- [Raptor](./units#Raptor);
+- [Bukka](./units#Bukka);
+- [Lançador](./units#Lançador);
+- [Esmagador](./units#Esmagador); e
+- [Estalador](./units#Estalador).
+
+O Raptor aparece a partir da sétima missão. Seu ataque é parecido com o do
+Incendiário, há um atraso entre a animação e o dano em si. Sua velocidade é
+incomparável, talvez apenas o Speeder consiga ser tão rápido quanto. Isto
+transforma o Raptor em um inimigo perigoso, que aparece repentinamente na sua
+base atacando um Armazém ou seus Fazendeiros. Contudo, sua velocidade também
+serve de alerta para um ataque maior de Criaturas das Sombras. Rising Lands
+gera estas unidades aleatoriamente e em grupos. No caso do Grupo dos Assassinos
+a velocidade das unidades é a mesma (Soldado, Incendiário, Arqueiro) — portanto
+o grupo também chega junto no alvo. Já em grupos de Criaturas das Sombras, se
+houver um Raptor no grupo ele irá chegar no alvo muito antes do restante do
+grupo. Portanto, principalmente em missões mais altas, fique atento.
+
+O Bukka aparece por volta da missão 11. Ele se comporta basicamente como um
+Arqueiro, tanto em termos de movimentação e velocidade como ataque. Já o
+Lançador é um upgrade do Bukka, com movimentação mais rápida e definitivamente
+mais perigoso. Por fim, o Esmagador completa a coleção de inimigos oferecendo
+velocidade, força de ataque, e resistência a danos. Um grupo simples com um
+Bukka, um Lançador, e um Esmagador pode facilmente derrotar uma pequena força
+de defesa, causando grande estrago na economia local. Não sei dizer exatamente
+quando essas unidades começam a aparecer, mas diria que Lançadores aparecem por
+volta da missão 14 e Esmagadores um pouco depois, talvez a partir da missão 16
+ou 17.
+
+A última e mais peculiar criatura é o Estalador. Parece uma tartaruga
+radioativa ou algo do tipo, aparece por volta da missão 19. É basicamente
+inofensivo, na maioria das vezes parece ser uma unidade que nunca ataca.
+Normalmente só vejo essa unidade fazer algo de útil na missão 23. Sua única
+característica "interessante" é sua resistência a danos.
+
 ## Diplomacia
+
+A partir da quarta missão você irá começar a interagir com outros clãs.
+Diferente do Grupo dos Assassinos, é possível conduzir diplomacia e comércio com
+estes clãs. A saber, o manual do jogo traz os nomes de cada clã:
+
+- Sangues Azuis
+- Bandoleiros Vermelhos
+- Chacais Verdes
+- Rebeldes Amarelos
+
+
 
 ## Comércio
 
