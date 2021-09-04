@@ -8,6 +8,11 @@ nav_order: 3
 has_children: false
 ---
 
+1. TOC
+{:toc}
+
+--------------------------------------------------------------------------------
+
 # Unidades
 
 ## Civis
@@ -82,6 +87,8 @@ Colonos em outras unidades, caso contrário não é possível recrutar mais Colo
 |            Capitão             |
 
 ## Cavalaria
+
+Ou, como mencionado no manual do jogo, "unidades animais",
 
 ### Dell'Orso
 
