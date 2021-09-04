@@ -10,9 +10,9 @@ has_children: false
 
 # Unidades
 
-## Economia
+## Civis
 
-As unidades de economia formam a base para o crescimento do clã, e são
+As unidades civis formam a base econômica para o crescimento do clã, e são
 responsáveis acúmulo de recursos necessários para treinamento de novas unidades
 e expansão de suas bases. Contudo, por serem unidades desarmadas (e frágeis),
 devem ser constantemente protegidas por outras unidades militares.
@@ -48,6 +48,12 @@ Colonos em outras unidades, caso contrário não é possível recrutar mais Colo
 | ![](units/construtor/construtor.gif) |
 | :----------------------------------: |
 |              Construtor              |
+
+### Mensageiro
+
+| ![](units/mensageiro/mensageiro.gif) |
+| :----------------------------------: |
+|              Mensageiro              |
 
 ## Infantaria
 
