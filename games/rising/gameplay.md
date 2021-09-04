@@ -8,6 +8,11 @@ nav_order: 2
 has_children: false
 ---
 
+1. TOC
+{:toc}
+
+--------------------------------------------------------------------------------
+
 # Visão Geral
 
 Esta página descreve um pouco os comandos e mecânicas gerais do jogo.
@@ -465,9 +470,9 @@ Espionagem é só um termo requintado para, no caso de Rising Lands, roubo. O
 Arqueiro, além de ser uma unidade de infantaria excepcional, também pode atuar
 como ladrão. O Arqueiro pode tanto alvejar um Armazém de outro clã para roubar
 recursos ou alvejar um Laboratório para roubar tecnologias. Adiantando um pouco
-a seção de dicas, mas essa habilidade é fantástica, principalmente no começo do
-jogo, considerando que só é possível pesquisar duas tecnologias por missão. Essa
-habilidade permite que esse limite seja ignorado.
+a seção de dicas, essa habilidade é fantástica. Principalmente no começo do
+jogo, considerando que só é possível pesquisar duas tecnologias por missão, essa
+habilidade permite que esse limite seja estendido.
 
 A mecânica é simples, basta clicar no Arqueiro, selecionar o item a ser
 roubado, e clicar na construção correspondente. Há uma observação importante a
@@ -476,8 +481,14 @@ jogo irá quebrar (*crash*) com essa habilidade, assim que o cursor do mouse
 sair da barra inferior (onde estão os itens a serem roubados). Provavelmente
 algum bug não corrigido do jogo, e sei que há versões com um *fix* que resolve
 esse problema — mas compartilham do mesmo problema do *fix* para reduzir a
-velocidade do jogo, acabam também interferindo na língua do mesmo.  Contudo, há
-uma solução, conforme mostro no exemplo abaixo.
+velocidade do jogo, acabam também interferindo na língua do mesmo. Abaixo um
+exemplo desse *crash*:
+
+| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/crash-roubo.mp4" type="video/mp4"></video> |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                            Jogo "quebra" durante roubo                                                                                            |
+
+Contudo, há uma solução, conforme mostro no exemplo abaixo.
 
 | <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/roubo-recurso-sucesso.mp4" type="video/mp4"></video> |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -497,3 +508,10 @@ E claro, um exemplo de roubo de tecnologia com sucesso:
 | <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/roubo-tecnologia-sucesso.mp4" type="video/mp4"></video> |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                      Tecnologia roubada!                                                                                                       |
+
+Quando o roubo é bem sucedido aparece a claquete — clicando nela o vídeo que
+toca é o reproduzido abaixo:
+
+| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/arqueiro-roubo-rising.mp4" type="video/mp4"></video> |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                 Vídeo do jogo após o roubo                                                                                                  |
