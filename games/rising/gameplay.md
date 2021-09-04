@@ -375,9 +375,9 @@ exploração. Bom, mas tratando-se de alianças a idéia é trazer o Mensageiro 
 Santuário do outro clã. Ou a aliança é aceita pelo outro clã ou não, conforme
 vemos abaixo.
 
-| <video width=100% autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/alianca-aceita.mp4" type="video/mp4"></video> |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                          Aliança aceita pelo clã Vermelho                                                                                          |
+| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/alianca-aceita.mp4" type="video/mp4"></video> |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                           Aliança aceita pelo clã Vermelho                                                                                           |
 
 Uma mensagem aparece no centro inferior da tela avisando que a aliança foi
 firmada. Uma bandeira com a cor do clã com o qual a aliança foi estabelecida
@@ -410,9 +410,9 @@ na bandeira a aliança é estabelecida. Caso não o faça, ela é rejeitada.
 O último ato diplomático é a quebra de alianças. Essa é fácil, basta atacar uma
 unidade ou edifício do outro clã, como vemos abaixo.
 
-| <video width=100% autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/alianca-quebrada.mp4" type="video/mp4"></video> |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                         Aliança com clã Vermelho é quebrada                                                                                          |
+| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/alianca-quebrada.mp4" type="video/mp4"></video> |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                          Aliança com clã Vermelho é quebrada                                                                                           |
 
 A bandeira no canto inferior direito é removida e uma mensagem é mostrada na
 tela. Aparece também a claquete que apresenta o vídeo reproduzido abaixo. Note
@@ -431,9 +431,9 @@ do jogo não seja tão intuitiva. O primeiro passo é enviar um Mercador até o
 Mercado do outro clã. Uma cartola irá aparecer no canto inferior esquerdo da
 tela. Clique nela.
 
-| <video width=100%  autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/comercio-1.mp4" type="video/mp4"></video> |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                            Mercador inicia transação                                                                                            |
+| <video width="100%"  autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/comercio-1.mp4" type="video/mp4"></video> |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                             Mercador inicia transação                                                                                             |
 
 Uma pequena interface será mostrada, permitindo que você especifique o que
 deseja enviar e o que deseja oferecer. É possível trocar unidades e recursos.
@@ -479,21 +479,21 @@ esse problema — mas compartilham do mesmo problema do *fix* para reduzir a
 velocidade do jogo, acabam também interferindo na língua do mesmo.  Contudo, há
 uma solução, conforme mostro no exemplo abaixo.
 
-| <video width=100% autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/roubo-recurso-sucesso.mp4" type="video/mp4"></video> |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                               Roubando recursos do Armazém                                                                                                |
+| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/roubo-recurso-sucesso.mp4" type="video/mp4"></video> |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                Roubando recursos do Armazém                                                                                                 |
 
 Basta posicionar a barra inferior de modo a sobrepor a construção a ser
 roubada. Isso evita que o cursor do mouse passe pela "terra", que é o que
 aparentemente quebra o jogo. No exemplo acima consegui roubar 27 Comidas. No
 abaixo a tentativa de roubo falhou:
 
-| <video width=100% autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/roubo-recurso-falha.mp4" type="video/mp4"></video> |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                             Falha ao tentar roubar recursos                                                                                             |
+| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/roubo-recurso-falha.mp4" type="video/mp4"></video> |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                              Falha ao tentar roubar recursos                                                                                              |
 
 E claro, um exemplo de roubo de tecnologia com sucesso:
 
-| <video width=100% autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/roubo-tecnologia-sucesso.mp4" type="video/mp4"></video> |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                     Tecnologia roubada!                                                                                                      |
+| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/roubo-tecnologia-sucesso.mp4" type="video/mp4"></video> |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                      Tecnologia roubada!                                                                                                       |
