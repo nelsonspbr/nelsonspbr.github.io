@@ -112,8 +112,8 @@ Esta página descreve um pouco os comandos e mecânicas gerais de Rising Lands.
 > - Restos de Metal - Restos de Metal da antiga civilização podem ser
 >   encontrados em toda a parte. Mecânicos podem recolhê-los e usá-los na
 >   construção de veículos.
-
-<p style="text-align: right"><i>— manual do jogo</i></p>
+>
+> — *manual do jogo*
 
 Como todo bom jogo de estratégia, os recursos em Rising Lands são fundamentais
 para construir suas bases e treinar unidades. Rising Lands define três recursos:
@@ -249,8 +249,8 @@ abaixo.
 > - 2 triângulos: armadura reforçada
 > - 3 triângulos: perímetro de visão aumentado
 > - 4 triângulos: consome menos Comida
-
-<p style="text-align: right"><i>— manual do jogo</i></p>
+>
+> — *manual do jogo*
 
 Um comando que pode ser útil em algumas situações, é possível forçar que suas
 unidades comam — desde que a pizza esteja pelo menos com um pedaço faltando.
@@ -280,8 +280,8 @@ Basta pressionar a tecla **E**. Isso por ajudar, por exemplo, quando você quise
 > negócios por possuir um segredo que lhes dá acesso ao [...] mundo
 > doente das Criaturas das Sombras. A melhor forma de livrar a terra de seu
 > rastro pútrido é matá-los sem piedade.
-
-<p style="text-align: right"><i>— manual do jogo</i></p>
+>
+> — *manual do jogo*
 
 O Grupo dos Assassinos (ou Liga dos Assassinos, ou ainda Confraria dos
 Assassinos) aparece desde a primeira missão. São unidades com escudo preto que
@@ -335,8 +335,8 @@ unidades militares protegendo suas unidades civis todo tempo.
 >
 > P.S. - Se essas coisas forem verdade, não desejo que nem mesmo meu maior
 > inimigo sinta a ira das "Criaturas das Sombras"...
-
-<p style="text-align: right"><i>— manual do jogo</i></p>
+>
+> — *manual do jogo*
 
 Similar ao Grupo dos Assassinos, as Criaturas das Sombras também tem escudo
 preto e aparecem aleatoriamente no mapa para atacar os jogadores — humanos e
