@@ -11,6 +11,8 @@ has_children: false
 # Visão Geral
 {: .no_toc }
 
+Esta página descreve um pouco os comandos e mecânicas gerais do jogo.
+
 <br/>
 <details open markdown="block">
   <summary>
@@ -22,8 +24,6 @@ has_children: false
 </details>
 
 --------------------------------------------------------------------------------
-
-Esta página descreve um pouco os comandos e mecânicas gerais do jogo.
 
 ## Movimentação e Ações
 
