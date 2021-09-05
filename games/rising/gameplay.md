@@ -15,7 +15,6 @@ Esta página descreve um pouco os comandos e mecânicas gerais de Rising Lands.
 
 --------------------------------------------------------------------------------
 
-<br/>
 <details open markdown="block">
   <summary>
     Contents
