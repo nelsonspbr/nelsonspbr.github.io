@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dicas
+title: Tips
 permalink: /games/rising/tips
 parent: Rising Lands
 grand_parent: Games
