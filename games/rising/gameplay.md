@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gameplay & Tips
+title: Gameplay
 permalink: /games/rising/gameplay
 parent: Rising Lands
 grand_parent: Games
@@ -21,8 +21,6 @@ has_children: false
 </details>
 
 --------------------------------------------------------------------------------
-
-
 
 Esta página descreve um pouco os comandos e mecânicas gerais do jogo.
 
