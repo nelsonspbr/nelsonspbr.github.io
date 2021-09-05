@@ -10,12 +10,19 @@ has_children: false
 
 --------------------------------------------------------------------------------
 
+<details open markdown="block">
+  <summary>
+    Contents
+  </summary>
+  {: .text-delta }
 1. TOC
 {:toc}
+</details>
 
 --------------------------------------------------------------------------------
 
 # Visão Geral
+{: .no_toc }
 
 Esta página descreve um pouco os comandos e mecânicas gerais do jogo.
 
