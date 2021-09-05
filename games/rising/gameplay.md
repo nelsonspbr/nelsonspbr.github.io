@@ -23,9 +23,12 @@ Esta página descreve um pouco os comandos e mecânicas gerais de Rising Lands.
 {:toc}
 </details>
 
+{% assign top = "<div style=\"text-align: right; font-size: 200%\"><a href=\"#\" id=\"back-to-top\">🔝</a></div>" %}
+
 --------------------------------------------------------------------------------
 
 ## Movimentação e Ações
+<a href="#" id="back-to-top">🔝</a>
 
 - A movimentação de unidades é feita através do mouse. Unidades e construções
   são selecionadas com um clique do botão esquerdo do mouse. Com uma unidade
@@ -472,6 +475,8 @@ recebo a contraparte — um Dell'Orso.
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                        Transação é efetuada                                                                                         |
 
+<div style="text-align: right"><a href="#" id="back-to-top">🔝</a></div>
+
 ## Espionagem
 
 Espionagem é só um termo requintado para, no caso de Rising Lands, roubo. O
@@ -523,3 +528,9 @@ toca é o reproduzido abaixo:
 | <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/arqueiro-roubo-rising.mp4" type="video/mp4"></video> |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                 Vídeo do jogo após o roubo                                                                                                  |
+
+<div style="text-align: right; font-size: 200%"><a href="#" id="back-to-top">🔝</a></div>
+
+TESTE
+
+{{ top }}
