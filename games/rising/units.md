@@ -51,15 +51,16 @@ devem ser constantemente protegidas por outras unidades militares.
 >
 > A VIDA DE UM COLONIZADOR
 >
-> Um itinerante, o Colonizador aguarda até ser recrutado. Indolente e preguiçoso por
-> natureza, ele gosta acima de tudo de deitar em sua rede embaixo do sol e tirar uma
-> longa soneca. Após ser tratado com indulgência pelo recrutador, ele acha difícil se
-> encaixar na sua nova posição. Suas opções: treinamento, ou se tornar um zelador.... Essa
-> mudança radical toca-o profundamente, a tal ponto de levá-lo a refugiar-se no sono, o
-> que ele faz mais do que qualquer outra coisa. Considerado divertido pelos companheiros,
-> ele não gosta que zombem dele e espera um dia recuperar sua liberdade perdida. Ele é
-> um incansável viajante e ama dirigir veículos motorizados e esmagar inimigos, esperando
-> através disto alcançar algum tipo de reconhecimento.
+> Um itinerante, o Colonizador aguarda até ser recrutado. Indolente e preguiçoso
+> por natureza, ele gosta acima de tudo de deitar em sua rede embaixo do sol e
+> tirar uma longa soneca. Após ser tratado com indulgência pelo recrutador, ele
+> acha difícil se encaixar na sua nova posição. Suas opções: treinamento, ou se
+> tornar um zelador.... Essa mudança radical toca-o profundamente, a tal ponto
+> de levá-lo a refugiar-se no sono, o que ele faz mais do que qualquer outra
+> coisa. Considerado divertido pelos companheiros, ele não gosta que zombem dele
+> e espera um dia recuperar sua liberdade perdida. Ele é um incansável viajante
+> e ama dirigir veículos motorizados e esmagar inimigos, esperando através disto
+> alcançar algum tipo de reconhecimento.
 >
 > — *manual do jogo*
 
@@ -77,11 +78,54 @@ Colonos em outras unidades, caso contrário não é possível recrutar mais Colo
 | :----------------------------------: |
 |              Fazendeiro              |
 
+> FAZENDEIRO
+>
+> Unidade Civil
+> Custo		Comida:5	Visão: 5/10
+> Ferramenta: alfanje
+> Papel: colher Comida
+> Recrutamento: Santuário
+>
+> A VIDA DE UM FAZENDEIRO
+>
+> Irmão de um acadêmico e filho de um Colonizador, ele é o melhor amigo do seu
+> primo Mecânico. Com a pele marcada e rachada por anos de trabalho intenso,
+> sabe seu lugar na sociedade, pois descobriu precocemente ter um dedo verde e
+> aprendeu a usar a colheitadeira para colher o sustento do solo. Ele trabalha
+> duro e é um homem de poucas palavras, o que não o impede de lutar contra um
+> Espadachim que o atrapalhe no seu serviço. Um de seus maiores desejos é a
+> criação de uma máquina de colheita, para que ele não precise mais sujar suas
+> mãos o tempo todo. Seu maior sonho, entretanto, é se tornar um Druida da Terra
+> e entrar em comunhão com a natureza.
+>
+> — *manual do jogo*
+
 ### Mecânico
 
 | ![](units/mecanico/mecanico.gif) |
 | :------------------------------: |
 |             Mecânico             |
+
+> MECÂNICO
+>
+> Unidade Civil
+> Custo	Comida: 6	Visão: 5/10
+> Ferramentas: chave inglesa
+> Papel: colher Restos de Metal, construir/reparar veículos.
+> Recrutamento: Santuário
+>
+> A VIDA DE UM MECÂNICO
+>
+> Filho do Mensageiro, primo em primeiro grau do Capitão, ele provou ser
+> brilhante na comunicação com o Assassino. Seu gosto peculiar advém de um
+> acidente banal na juventude: ele estava brincando com uma máquina a vapor e
+> teve suas costas queimadas. Desde então ele não conseguiu mais sossegar,
+> preferindo trabalhar em máquinas e motores. Ele possui uma verdadeira paixão
+> por velocidade e trata seus veículos como bebês. A única coisa capaz de
+> preencher suas fantasias mais selvagens seria uma solução de limpeza que
+> tirasse completamente a graxa de suas mãos.
+>
+> — *manual do jogo*
 
 ### Construtor
 
