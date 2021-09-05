@@ -28,7 +28,6 @@ Esta página descreve um pouco os comandos e mecânicas gerais de Rising Lands.
 --------------------------------------------------------------------------------
 
 ## Movimentação e Ações
-<a href="#" id="back-to-top">🔝</a>
 
 - A movimentação de unidades é feita através do mouse. Unidades e construções
   são selecionadas com um clique do botão esquerdo do mouse. Com uma unidade
@@ -492,8 +491,6 @@ recebo a contraparte — um Dell'Orso.
 | <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/comercio-3.mp4" type="video/mp4"></video> |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                        Transação é efetuada                                                                                         |
-
-<div style="text-align: right"><a href="#" id="back-to-top">🔝</a></div>
 
 {{ top }}
 
