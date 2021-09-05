@@ -8,7 +8,8 @@ nav_order: 2
 has_children: false
 ---
 
---------------------------------------------------------------------------------
+# Visão Geral
+{: .no_toc }
 
 <details open markdown="block">
   <summary>
@@ -21,8 +22,7 @@ has_children: false
 
 --------------------------------------------------------------------------------
 
-# Visão Geral
-{: .no_toc }
+
 
 Esta página descreve um pouco os comandos e mecânicas gerais do jogo.
 
