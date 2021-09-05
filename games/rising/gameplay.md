@@ -10,10 +10,10 @@ has_children: false
 
 # Visão Geral
 {: .no_toc }
+<br/>
 
 Esta página descreve um pouco os comandos e mecânicas gerais do jogo.
 
-<br/>
 <details open markdown="block">
   <summary>
     Contents
