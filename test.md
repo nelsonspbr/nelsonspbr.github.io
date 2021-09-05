@@ -1,11 +1,12 @@
 ---
 title: Test
+nav_exclude: true
 ---
 
 # Test
 
 ```bash
-echo "hello, world" 
+echo "hello, world"
 ```
 
 ```python
