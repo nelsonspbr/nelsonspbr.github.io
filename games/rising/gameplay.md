@@ -11,6 +11,7 @@ has_children: false
 # Visão Geral
 {: .no_toc }
 
+<br/>
 <details open markdown="block">
   <summary>
     Contents
