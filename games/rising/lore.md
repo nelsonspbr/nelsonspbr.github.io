@@ -10,9 +10,10 @@ has_children: false
 
 # Lore
 {: .no_toc }
-<br/>
 
 Esta página fala um pouco mais sobre a história (e histórico) de Rising Lands.
+
+--------------------------------------------------------------------------------
 
 <details open markdown="block">
   <summary>
@@ -22,5 +23,7 @@ Esta página fala um pouco mais sobre a história (e histórico) de Rising Lands
 1. TOC
 {:toc}
 </details>
+
+{% assign top = '<div style="text-align: right; font-size: 150%"><a href="#" id="back-to-top">🔝</a></div>' %}
 
 --------------------------------------------------------------------------------

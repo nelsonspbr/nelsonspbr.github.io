@@ -10,9 +10,10 @@ has_children: false
 
 # Missões
 {: .no_toc }
-<br/>
 
 Esta página descreve as missões de Rising Lands.
+
+--------------------------------------------------------------------------------
 
 <details open markdown="block">
   <summary>
@@ -22,5 +23,7 @@ Esta página descreve as missões de Rising Lands.
 1. TOC
 {:toc}
 </details>
+
+{% assign top = '<div style="text-align: right; font-size: 150%"><a href="#" id="back-to-top">🔝</a></div>' %}
 
 --------------------------------------------------------------------------------

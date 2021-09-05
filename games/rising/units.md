@@ -10,9 +10,10 @@ has_children: false
 
 # Unidades
 {: .no_toc }
-<br/>
 
 Esta página descreve as unidades de Rising Lands.
+
+--------------------------------------------------------------------------------
 
 <details open markdown="block">
   <summary>
@@ -22,6 +23,8 @@ Esta página descreve as unidades de Rising Lands.
 1. TOC
 {:toc}
 </details>
+
+{% assign top = '<div style="text-align: right; font-size: 150%"><a href="#" id="back-to-top">🔝</a></div>' %}
 
 --------------------------------------------------------------------------------
 

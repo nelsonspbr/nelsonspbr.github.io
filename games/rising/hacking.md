@@ -10,9 +10,10 @@ has_children: false
 
 # Hacking
 {: .no_toc }
-<br/>
 
 Esta página detalha o processo de alteração de parâmetros do jogo.
+
+--------------------------------------------------------------------------------
 
 <details open markdown="block">
   <summary>
@@ -22,5 +23,7 @@ Esta página detalha o processo de alteração de parâmetros do jogo.
 1. TOC
 {:toc}
 </details>
+
+{% assign top = '<div style="text-align: right; font-size: 150%"><a href="#" id="back-to-top">🔝</a></div>' %}
 
 --------------------------------------------------------------------------------
