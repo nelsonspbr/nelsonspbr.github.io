@@ -12,7 +12,7 @@ has_children: false
 {: .no_toc }
 <br/>
 
-Esta página descreve um pouco os comandos e mecânicas gerais do jogo.
+Esta página descreve um pouco os comandos e mecânicas gerais de Rising Lands.
 
 <details open markdown="block">
   <summary>

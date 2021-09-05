@@ -10,8 +10,10 @@ has_children: false
 
 # Hacking
 {: .no_toc }
-
 <br/>
+
+Esta página detalha o processo de alteração de parâmetros do jogo.
+
 <details open markdown="block">
   <summary>
     Contents

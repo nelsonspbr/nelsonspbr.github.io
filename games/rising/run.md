@@ -38,7 +38,7 @@ refresh rate.
 This guide assumes the game is already installed — usually under `C:/RISING`. I
 know... installing Rising Lands might be tricky enough, especially if you do
 not have your CD anymore. I must say though, you may find it (in several
-different languages) on 
+different languages) on
 <a href="https://archive.org/details/software?query=rising+lands"
 target="_blank">archive.org</a>. A quick Google search should return what you
 are looking for.
@@ -136,7 +136,7 @@ monitor — efetivamente resolvendo o problema do jogo rodar rápido demais.
 Esse guia assume que o jogo já está instalado — tipicamente em `C:/RISING`.
 Sim, instalar o jogo já pode ser suficientemente complicado, especialmente se
 você não tem mais o CD do jogo. Contudo, vale destacar que é possível encontrar
-o CD no <a href="https://archive.org/details/software?query=rising+lands" 
+o CD no <a href="https://archive.org/details/software?query=rising+lands"
 target="_blank">archive.org</a> — inclusive em português!
 
 ## Instruções

@@ -10,8 +10,10 @@ has_children: false
 
 # Dicas
 {: .no_toc }
-
 <br/>
+
+Esta página reune algumas dicas de Rising Lands.
+
 <details open markdown="block">
   <summary>
     Contents

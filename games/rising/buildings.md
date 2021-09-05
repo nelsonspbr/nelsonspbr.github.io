@@ -10,8 +10,10 @@ has_children: false
 
 # Construções
 {: .no_toc }
-
 <br/>
+
+Esta página descreve as construções de Rising Lands.
+
 <details open markdown="block">
   <summary>
     Contents

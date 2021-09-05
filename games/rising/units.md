@@ -10,8 +10,10 @@ has_children: false
 
 # Unidades
 {: .no_toc }
-
 <br/>
+
+Esta página descreve as unidades de Rising Lands.
+
 <details open markdown="block">
   <summary>
     Contents

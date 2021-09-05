@@ -10,8 +10,10 @@ has_children: false
 
 # Missões
 {: .no_toc }
-
 <br/>
+
+Esta página descreve as missões de Rising Lands.
+
 <details open markdown="block">
   <summary>
     Contents

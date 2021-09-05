@@ -10,8 +10,10 @@ has_children: false
 
 # Vídeos
 {: .no_toc }
-
 <br/>
+
+Esta página resume meus vídeos no YouTube de Rising Lands.
+
 <details open markdown="block">
   <summary>
     Contents
