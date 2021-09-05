@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Missions 🛠
+title: Missions
 permalink: /games/rising/missions
 parent: Rising Lands
 grand_parent: Games
