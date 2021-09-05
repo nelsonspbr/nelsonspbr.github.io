@@ -23,8 +23,6 @@ Esta página descreve um pouco os comandos e mecânicas gerais de Rising Lands.
 {:toc}
 </details>
 
-{% assign top = '<div style="text-align: right; font-size: 200%"><a href="#" id="back-to-top">🔝</a></div>' %}
-
 --------------------------------------------------------------------------------
 
 ## Movimentação e Ações
@@ -92,6 +90,8 @@ Esta página descreve um pouco os comandos e mecânicas gerais de Rising Lands.
   | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
   |                                                                                            Mecânicos reparando                                                                                            |
 
+{{ top }}
+
 ## Recursos
 
 > Em Rising Lands não existe dinheiro. A única forma de intercâmbio monetário é
@@ -143,6 +143,8 @@ excesso de recursos, apenas para fins ilustrativos.
 | :-----------------------------: | :-----------------------------: | :--------------------------------: |
 |       Armazém com Comida        |       Armazém com Pedras        |    Armazém com Partes Mecânicas    |
 
+{{ top }}
+
 ## Coleta de Recursos
 
 Cada recurso é coletado por unidades específicas:
@@ -184,6 +186,8 @@ observações pertinentes:
 - Armazéns tem uma capacidade finita. Para conseguir estocar mais recursos é
   necessário construir mais Armazéns.
 
+{{ top }}
+
 ## População
 
 O Colono é a base da população do jogo. Qualquer unidade (com a exceção das
@@ -223,6 +227,8 @@ abaixo.
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                           Pilotando veículos                                                                                            |
 
+{{ top }}
+
 ## Unidades e Alimentação
 
 <!-- TODO -->
@@ -251,6 +257,8 @@ Basta pressionar a tecla **E**. Isso por ajudar, por exemplo, quando você quise
 
 <!-- TODO: Adicionar vídeo disso -->
 
+{{ top }}
+
 ## Pesquisa Científica
 
 <!-- TODO -->
@@ -259,6 +267,8 @@ Basta pressionar a tecla **E**. Isso por ajudar, por exemplo, quando você quise
 - Civil
 - Militar
 - Magia
+
+{{ top }}
 
 ## Grupo dos Assassinos
 
@@ -288,6 +298,8 @@ irão alvejar um de seus Armazéns, ou uma unidade específica. É um inimigo qu
 atrapalha mais durante o começo do jogo, ou quando você tem uma expansão para
 extração de recursos sem boas defesas. É importante sempre manter algumas
 unidades militares protegendo suas unidades civis todo tempo.
+
+{{ top }}
 
 ## Criaturas das Sombras
 
@@ -362,6 +374,8 @@ radioativa ou algo do tipo, aparece por volta da missão 19. É basicamente
 inofensivo, na maioria das vezes parece ser uma unidade que nunca ataca.
 Normalmente só vejo essa unidade fazer algo de útil na missão 23. Sua única
 característica "interessante" é sua resistência a danos.
+
+{{ top }}
 
 ## Diplomacia
 
@@ -439,6 +453,8 @@ mostram a bandeira verde.
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                  Vídeo do jogo                                                                                                   |
 
+{{ top }}
+
 ## Comércio
 
 O comércio também é conduzido pelo Mensageiro — contudo, por intermédio do
@@ -476,6 +492,8 @@ recebo a contraparte — um Dell'Orso.
 |                                                                                        Transação é efetuada                                                                                         |
 
 <div style="text-align: right"><a href="#" id="back-to-top">🔝</a></div>
+
+{{ top }}
 
 ## Espionagem
 
@@ -528,9 +546,5 @@ toca é o reproduzido abaixo:
 | <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/arqueiro-roubo-rising.mp4" type="video/mp4"></video> |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                 Vídeo do jogo após o roubo                                                                                                  |
-
-<div style="text-align: right; font-size: 200%"><a href="#" id="back-to-top">🔝</a></div>
-
-TESTE
 
 {{ top }}
