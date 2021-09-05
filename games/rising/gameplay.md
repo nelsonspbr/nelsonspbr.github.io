@@ -23,7 +23,7 @@ Esta página descreve um pouco os comandos e mecânicas gerais de Rising Lands.
 {:toc}
 </details>
 
-<!-- {% assign top = '<div style="text-align: right; font-size: 200%"><a href="#" id="back-to-top">🔝</a></div>' %} -->
+{% assign top = '<div style="text-align: right; font-size: 200%"><a href="#" id="back-to-top">🔝</a></div>' %}
 
 --------------------------------------------------------------------------------
 
@@ -547,5 +547,3 @@ toca é o reproduzido abaixo:
 |                                                                                                 Vídeo do jogo após o roubo                                                                                                  |
 
 {{ top }}
-
-{{ testvar }}
