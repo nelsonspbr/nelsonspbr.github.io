@@ -14,13 +14,13 @@ has_children: false
 Esta página descreve as unidades de Rising Lands. O manual do jogo até define
 algumas categorias, mas eu prefiro dividí-las em:
 
-- Civis: Colono e unidades do Santuário;
-- Infantaria: unidades da Caserna;
-- Cavalaria: unidades do Circo;
-- Mecânicas: unidades da Oficina;
-- Especiais: Mensageiro e Druida;
-- Aéreas: unidades do Heliporto; e
-- Criaturas das Sombras.
+- **Civis**: Colono e unidades do Santuário;
+- **Infantaria**: unidades da Caserna;
+- **Cavalaria**: unidades do Circo;
+- **Mecânicas**: unidades da Oficina;
+- **Aéreas**: unidades do Heliporto; e
+- **Especiais**: Mensageiro e Druida;
+- **Criaturas** das Sombras.
 
 --------------------------------------------------------------------------------
 
@@ -81,6 +81,10 @@ ressaltar a importância de ter uma cadência saudável de criação de novos Co
 para que sua economia (e seu exército) possam crescer de acordo com a demanda.
 Também vale destacar a necessidade de tomar cuidado para não converter todos os
 Colonos em outras unidades, caso contrário não é possível recrutar mais Colonos.
+Os Colonos são essenciais tanto para treinar unidades como também para operar
+seus edifícios.
+
+{{ top }}
 
 ### Fazendeiro
 
@@ -111,6 +115,18 @@ Colonos em outras unidades, caso contrário não é possível recrutar mais Colo
 >
 > — *manual do jogo*
 
+O Fazendeiro é responsável pela coleta de Comida do seu clã. Considerando que a
+comida é parte integral do recrutamento de colonos, treinamento de unidades, e
+construção de edifícios, é desnecessário dizer o quão importante é ter uma
+quantidade razoável de Fazendeiros coletando alimentos para suas bases.
+Diferente do que o manual do jogo traz em termos de informações, o custo de um
+Fazendeiro é de 4 Comidas — sendo portanto a unidade mais barata do Santuário e
+a segunda unidade mais barata do jogo; a primeira sendo o Mensageiro. O
+Fazendeiro provavelmente é uma das primeiras unidades que você irá recrutar em
+qualquer missão.
+
+{{ top }}
+
 ### Mecânico
 
 | ![](units/mecanico/mecanico.gif) |
@@ -138,6 +154,29 @@ Colonos em outras unidades, caso contrário não é possível recrutar mais Colo
 > tirasse completamente a graxa de suas mãos.
 >
 > — *manual do jogo*
+
+O mecânico cuida primariamente da coleta de Partes Mecânicas. Por estarem
+esparsamente espalhadas pelo mapa, o Mecânico compensa esse fato sendo
+ligeiramente mais rápido que as demais unidades civis. Contudo, é uma unidade
+tão frágil quanto às outras e potencialmente mais exposta, visto que diferente
+de fazendas (abóboras) e minas, que estabelecem uma operação de extração de
+recursos mais localizada e fixa, o Mecânico acaba precisando se deslocar para
+regiões mais longínquas para coletar as Partes Mecânicas. Além disso, comumente
+as regiões com melhores fontes de Partes Mecânicas normalmente são também onde
+o Grupo dos Assassinos e as Criaturas das Sombras costumam surgir.
+
+A outra habilidade do Mecânico é reparar veículos. Contudo, o Mecânico só
+consegue reparar um veículo até 50% de seus pontos de vida, o que de certa
+forma reduz a efetividade dessa habilidade. Combinado com o fato de que os
+projéteis trocados entre veículos de combate causam grande dano, raramente é
+possível efetuar reparos durante o combate. Por fim, note que quando um veículo
+é destruído as partes mecânicas usadas em sua fabricação são retornadas (ao
+chão), o que de certa forma pode tornar mais interessante destruir um veículo
+danificado e reconstruí-lo, gastando apenas Comida extra no processo. Melhor do
+que ter um veículo destruído em campo de batalha, principalmente em uma base
+inimiga que poderá posteriormente utilizar estas Partes Mecânicas perdidas.
+
+{{ top }}
 
 ### Construtor
 
@@ -169,7 +208,22 @@ Colonos em outras unidades, caso contrário não é possível recrutar mais Colo
 >
 > — *manual do jogo*
 
+O Construtor forma, ao lado do Colono e do Fazendeiro, a estrutura econômica
+fundamental de seu clã. O Construtor é responsável tanto por erguer seus
+edifícios como também por coletar Pedras para construção. Diferente da coleta
+de Comida, tipicamente não é necessário ter um número grande de Construtores.
+Tudo depende da configuração da operação de extração de Pedras — a distância e
+o percurso entre a Mina e o Armazém, por exemplo. É útil ter vários
+Construtores também para acelerar as construções. Por fim, Construtores podem
+reparar edifícios sem custo.
+
+{{ top }}
+
 ## Infantaria
+
+Classifico como unidades de infantaria todas as unidades provenientes da
+Caserna. São unidades militares básicas que podem compor os números do seu
+exército.
 
 ### Soldado
 
@@ -199,6 +253,14 @@ Colonos em outras unidades, caso contrário não é possível recrutar mais Colo
 > em ficar pela Biblioteca tentando aprender algo.
 >
 > — *manual do jogo*
+
+O Soldado é a força mais básica que pode ser recrutada, estando disponível
+desde a primeira missão. Para uma unidade de entrada o Soldado é bastante útil.
+Efetivo em quantidade, capaz de segurar ataques do Grupo dos Assassinos e das
+Criaturas das Sombras, bem como para eliminar forças básicas de outros clãs. O
+Soldado e o Incendiário são as únicas unidades *melee* (corpo a corpo) do jogo,
+e entre estas eu prefiro de longe o Soldado; possui um ataque confiável e uma
+resistência a danos razoável.
 
 ### Incendiário
 
@@ -232,6 +294,22 @@ Colonos em outras unidades, caso contrário não é possível recrutar mais Colo
 >
 > — *manual do jogo*
 
+O Incendiário é uma unidade fundamentalmente projetada para destruir edifícios;
+de longe é uma das unidades mais eficientes em fazê-lo. Contudo, para o combate
+com outras unidades até mesmo o Soldado é preferível. O ataque do Incendiário é
+efetuado de um jeito que existe um atraso entre o ato do ataque e o dano em si.
+O vídeo abaixo mostra um exemplo:
+
+| <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/incendiario-genio.mp4" type="video/mp4"></video> |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                     Incendiário e seu atraso de ataque                                                                                     |
+
+Isso pode acontecer tanto com o próprio Incendiário, conforme o exemplo, como
+também com outras unidades suas (ou pior, aliadas). Em resumo, o ataque do
+Incendiário não é confiável. Uma pequena força de Incendiários pode ser usada
+como grupo adicional, paralelo, para destruir edifícios rapidamente enquanto a
+força principal cuida das unidades inimigas.
+
 ### Arqueiro
 
 | ![](units/arqueiro/arqueiro.gif) |
@@ -262,6 +340,21 @@ Colonos em outras unidades, caso contrário não é possível recrutar mais Colo
 > cumprida.
 >
 > — *manual do jogo*
+
+O Arqueiro é uma das melhores unidades do jogo. Seu ataque à distância tem um
+excelente alcance — melhor que de outras unidades e melhor do que *turrets*
+(torres de defesa), como a Catapulta e o Canhão. Além disso, seu ataque
+"atravessa" terrenos elevados, diferente de unidades como o Capitão e o Sun. Ou
+seja, em mapas ou regiões com terreno acidentado o Arqueiro é a melhor solução
+de defesa e ataque. É claro que contra unidades mais parrudas, como veículos, é
+necessário deslocar e coordenar uma pequena força de Arqueiros. Outra
+desvantagem é ser uma unidade de infantaria, portanto suscetível a
+atropelamentos (inimigos ou amigos). Por isso, em missões mais finais é muitas
+vezes necessário combinar Arqueiros com algum veículo ou unidade montada que
+sirva como barreira contra veículos.
+
+O Arqueiro também pode atuar como ladrão, conforme visto
+[aqui](./gameplay#espionagem).
 
 ### Capitão
 
@@ -491,6 +584,53 @@ inicial mais usual de optar pela área militar.
 > oculares permitem ao motorista e Druidas dirigir-se ao alvo e transformá-lo em
 > torresmos....
 
+## Aéreas
+
+### Balão
+
+| ![](units/balao/balao-full.gif) |
+| :-----------------------------: |
+|              Balão              |
+
+> BALÃO
+>
+> - Unidade aérea
+> - Custo: vem grátis com seu Heliporto
+> - Visão: 10/10
+> - Papel: transporte de tropas
+> - Número de passageiros:  5
+>
+> O SERVIÇO DO BALÃO
+>
+> Usando idéias básicas de um pedaço de pergaminho assinado por 'Mongolfier' (o
+> inventor do balão), alguns engenheiros aeronáuticos se uniram para carimbar
+> essa invenção. É a única máquina voadora que pode mover suas tropas
+> (excetuando-se o Arqueiro) pelo ar. O Balão é indestrutível.
+
+### Helicóptero
+
+| ![](units/helicoptero/helicoptero-full.gif) |
+| :-----------------------------------------: |
+|                 Helicóptero                 |
+
+> HELIPED
+>
+> - Unidade aérea
+> - Custo: Comida: 20 / Metal: 3
+> - Visão: 10/10
+> - Arma: Bombas
+> - Papel: unidade de suporte aéreo
+> - Alcance: 4
+> - Número de passageiros: nenhum
+>
+> O SERVIÇO DO HELIPED
+>
+> O Heliped é o resultado de pesquisa apaixonada. Acadêmicos reclamavam
+> incessantemente a respeito do calor, até que resolveram construir um
+> ventilador gigante. Quando eles ligaram-no, ele destruiu todos os edifícios ao
+> seu redor. Obviamente não daria para usá-lo deste jeito, então eles voltaram à
+> prancheta e surgiram com uma poderosa unidade aérea - o Heliped....
+
 ## Especiais
 
 ### Mensageiro
@@ -546,53 +686,6 @@ inicial mais usual de optar pela área militar.
 > tipo de armadura, estando totalmente desprotegido quando atacado. O Druida é
 > governado pelo desejo de evitar as pessoas, e obter a perfeita "Unidade" com a
 > energia do Cristal.
-
-## Aéreas
-
-### Balão
-
-| ![](units/balao/balao-full.gif) |
-| :-----------------------------: |
-|              Balão              |
-
-> BALÃO
->
-> - Unidade aérea
-> - Custo: vem grátis com seu Heliporto
-> - Visão: 10/10
-> - Papel: transporte de tropas
-> - Número de passageiros:  5
->
-> O SERVIÇO DO BALÃO
->
-> Usando idéias básicas de um pedaço de pergaminho assinado por 'Mongolfier' (o
-> inventor do balão), alguns engenheiros aeronáuticos se uniram para carimbar
-> essa invenção. É a única máquina voadora que pode mover suas tropas
-> (excetuando-se o Arqueiro) pelo ar. O Balão é indestrutível.
-
-### Helicóptero
-
-| ![](units/helicoptero/helicoptero-full.gif) |
-| :-----------------------------------------: |
-|                 Helicóptero                 |
-
-> HELIPED
->
-> - Unidade aérea
-> - Custo: Comida: 20 / Metal: 3
-> - Visão: 10/10
-> - Arma: Bombas
-> - Papel: unidade de suporte aéreo
-> - Alcance: 4
-> - Número de passageiros: nenhum
->
-> O SERVIÇO DO HELIPED
->
-> O Heliped é o resultado de pesquisa apaixonada. Acadêmicos reclamavam
-> incessantemente a respeito do calor, até que resolveram construir um
-> ventilador gigante. Quando eles ligaram-no, ele destruiu todos os edifícios ao
-> seu redor. Obviamente não daria para usá-lo deste jeito, então eles voltaram à
-> prancheta e surgiram com uma poderosa unidade aérea - o Heliped....
 
 ## Criaturas das Sombras
 
