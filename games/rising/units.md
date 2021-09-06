@@ -301,7 +301,8 @@ Unidades de "cavalaria" — ou, como mencionado no manual do jogo, "unidades
 animais" — são treinadas no Circo. São unidades rápidas, resistentes a dano,
 porém em média levemente mais caras que as de infantaria. Além disso, ambas as
 unidades de Circo são obtidas através de descobertas científicas na área de
-agricultura #TODO
+agricultura, o que oferece uma alternativa estratégica interessante ao caminho
+inicial mais usual de optar pela área militar.
 
 ### Dell'Orso
 
@@ -369,11 +370,53 @@ agricultura #TODO
 | :----------------------------: |
 |            Speeder             |
 
+> ACELERADOR
+>
+> - Unidade Militar
+> - Custo: Comida: 8 / Metal: 4
+> - Visão: 5/10
+> - Arma: metralhadora de resfriamento a líquido
+> - Papel: veículo de proto ataque
+> - Range: 4
+>
+> O SERVIÇO DO ACELERADOR
+>
+> Rápido, leve e relativamente barato, o Acelerador é o veículo ideal para
+> reconhecimento. Com sua metralhadora resfriada a líquido, pode servir também
+> como veículo de ataque. O chassis monocoque reforçado oferece características
+> soberbas de manobra, o que ajuda a evitar colisões. Sob o capô há um V-12
+> super-modificado que fornece 800 cavalos com 10,000rpm. Os primeiros modelos
+> fora de linha vibravam tanto que os pinos saltaram e as partes do corpo
+> desmontaram. Não é necessário dizer que os problemas foram retificados e que
+> os novos modelos andam macio como seda e rápido como o trovão....
+
 ### Bunker
 
 | ![](units/bunker/bunker.gif) |
 | :--------------------------: |
 |            Bunker            |
+
+> RIBOMBADOR
+>
+> - Unidade Militar
+> - Custo: Comida: 10 / Metal: 5
+> - Visão: 10/10
+> - Arma: Canhão Explosivo
+> - Papel: transporte de tropas e veículo de ataque
+> - Alcance: 10
+>
+> O SERVIÇO DO  RIBOMBADOR
+>
+> O Ribombador é um veículo de transporte pesado que vem carregado com mega
+> poder de fogo - o Canhão Explosivo, um canhão feito sob encomenda para
+> transformar pedra em poeira e inimigos em um monte de sangue e vísceras! Seus
+> dois motores a vapor estão protegidos por uma blindagem de 5 cm, oferecendo
+> proteção mais do que ampla para os passageiros. Em uma pequena idéia de gênio,
+> os engenheiros mecânicos descobriram um jeito de desviar calor do motor para
+> compartimento de passageiros, para proporcionar maior conforto nos dias de
+> tempo ruim. O único problema deste equipamento é seu sistema de suspensão: ele
+> não existe. Isso significa uma viajem dura, chacoalhante e cheia de
+> reclamações dos passageiros.
 
 ### Ceifeiro
 
@@ -381,17 +424,72 @@ agricultura #TODO
 | :------------------------------: |
 |             Ceifeiro             |
 
+> - COLHEITADEIRA -
+>
+> - Unidade Civil
+> - Custo: Comida: 10 / Metal: 8
+> - Visão: 5/10
+> - Arma: Nenhuma
+> - Papel: colher Comida
+> - Número de passageiros: pode comportar um máximo de 5 unidades (5 passageiros
+>   ou 5 sacas de Comida ou uma combinação de ambos).
+>
+> O TRABALHO DA COLHEITADEIRA
+>
+> Manuseada por um servidor civil, esse veículo movido a vapor dá ao Fazendeiro
+> uma grande ajuda. Antes de sua existência, o Fazendeiro trabalhava 16 horas
+> por dia para alimentar os Colonizadores. O motor a vapor alinhado com
+> virabrequim de cabeçote duplo suspenso do modelo retrô R1 foi construído para
+> condições extremas e cargas pesadas, enquanto seu padrão interior de veludo
+> com assentos baixos e um sistema estéreo com 4 alto-falantes oferece conforto
+> sem precedentes e grande prazer ao dirigir (direção ultra-macia é oferecida
+> apenas nos modelos da série CHRONO). O preço baixo e grande capacidade de
+> carga tornam essa máquina absolutamente essencial para o futuro do seu clã..
+>
+> — *manual do jogo*
+
 ### Bombardeiro
 
 | ![](units/bombardeiro/bombardeiro.gif) |
 | :------------------------------------: |
 |              Bombardeiro               |
 
+> BOMBARDEIRO
+>
+> - Unidade Militar
+> - Custo: Comida: 12 / Metal: 6
+> - Visão: 5/10
+> - Papel: depositar explosivos no solo
+> - Alcance dos Explosivos: 4
+> - Número de Explosivos: 5 (carregados na Garagem)
+>
+> O SERVIÇO DO BOMBARDEIRO
+>
+> O Bombardeiro e um veículo terrestre. Explosivos são tão instáveis que o
+> Mecânico equipou este equipamento com o sistema de suspensão mais moderno.
+
 ### Sun
 
 | ![](units/sun/sun.gif) |
 | :--------------------: |
 |          Sun           |
+
+> FOGO DO INFERNO
+>
+> - Unidade militar-religiosa
+> - Custo: Comida: 20 / Metal: 10
+> - Visão: 10/10
+> - Arma: canhão poderoso
+> - Papel: transporte de tropas e veículo de ataque
+> - Alcance: 8
+>
+> O PAPEL DO FOGO DO INFERNO
+>
+> Os Druidas receberam essa invenção com grande júbilo. Finalmente um veículo
+> totalmente movido a luz solar através do poder da física aplicada. Seus
+> canhões tremendamente poderosos cospem fogo do inferno, daí o nome. As fendas
+> oculares permitem ao motorista e Druidas dirigir-se ao alvo e transformá-lo em
+> torresmos....
 
 ## Especiais
 
@@ -457,11 +555,44 @@ agricultura #TODO
 | :-----------------------------: |
 |              Balão              |
 
+> BALÃO
+>
+> - Unidade aérea
+> - Custo: vem grátis com seu Heliporto
+> - Visão: 10/10
+> - Papel: transporte de tropas
+> - Número de passageiros:  5
+>
+> O SERVIÇO DO BALÃO
+>
+> Usando idéias básicas de um pedaço de pergaminho assinado por 'Mongolfier' (o
+> inventor do balão), alguns engenheiros aeronáuticos se uniram para carimbar
+> essa invenção. É a única máquina voadora que pode mover suas tropas
+> (excetuando-se o Arqueiro) pelo ar. O Balão é indestrutível.
+
 ### Helicóptero
 
 | ![](units/helicoptero/helicoptero-full.gif) |
 | :-----------------------------------------: |
 |                 Helicóptero                 |
+
+> HELIPED
+>
+> - Unidade aérea
+> - Custo: Comida: 20 / Metal: 3
+> - Visão: 10/10
+> - Arma: Bombas
+> - Papel: unidade de suporte aéreo
+> - Alcance: 4
+> - Número de passageiros: nenhum
+>
+> O SERVIÇO DO HELIPED
+>
+> O Heliped é o resultado de pesquisa apaixonada. Acadêmicos reclamavam
+> incessantemente a respeito do calor, até que resolveram construir um
+> ventilador gigante. Quando eles ligaram-no, ele destruiu todos os edifícios ao
+> seu redor. Obviamente não daria para usá-lo deste jeito, então eles voltaram à
+> prancheta e surgiram com uma poderosa unidade aérea - o Heliped....
 
 ## Criaturas das Sombras
 
