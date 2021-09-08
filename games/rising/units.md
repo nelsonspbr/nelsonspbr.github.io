@@ -262,6 +262,8 @@ Soldado e o Incendiário são as únicas unidades *melee* (corpo a corpo) do jog
 e entre estas eu prefiro de longe o Soldado; possui um ataque confiável e uma
 resistência a danos razoável.
 
+{{ top }}
+
 ### Incendiário
 
 | ![](units/incendiario/incendiario.gif) |
@@ -310,6 +312,8 @@ Incendiário não é confiável. Uma pequena força de Incendiários pode ser us
 como grupo adicional, paralelo, para destruir edifícios rapidamente enquanto a
 força principal cuida das unidades inimigas.
 
+{{ top }}
+
 ### Arqueiro
 
 | ![](units/arqueiro/arqueiro.gif) |
@@ -351,10 +355,15 @@ necessário deslocar e coordenar uma pequena força de Arqueiros. Outra
 desvantagem é ser uma unidade de infantaria, portanto suscetível a
 atropelamentos (inimigos ou amigos). Por isso, em missões mais finais é muitas
 vezes necessário combinar Arqueiros com algum veículo ou unidade montada que
-sirva como barreira contra veículos.
+sirva como barreira contra veículos. Em todo caso, uma força grande o
+suficiente de Arqueiros dificilmente é batida.
 
 O Arqueiro também pode atuar como ladrão, conforme visto
-[aqui](./gameplay#espionagem).
+[aqui](./gameplay#espionagem). O roubo de tecnologias é particularmente
+interessante pois permite, mesmo que de maneira limitada, burlar o limite de
+duas descobertas por missão.
+
+{{ top }}
 
 ### Capitão
 
@@ -387,6 +396,18 @@ O Arqueiro também pode atuar como ladrão, conforme visto
 > gera suspiros de medo entre as fileiras inimigas.
 >
 > — *manual do jogo*
+
+O Capitão é a unidade mais avançada de infantaria em termos de capacidade de
+ataque, velocidade, e resistência. Versátil, rapidamente posicionado em campo
+de batalha, capaz de cobrir grandes distâncias com muito mais eficiências que
+seus companheiros de Caserna, o Capitão é uma ótima opção para compor suas
+forças. Mesmo uma pequena força de Capitães é capaz de causar estragos na
+economia do inimigo. Uma força suficientemente grande pode fazer frente até
+mesmo a um grupo de Suns. Contudo, o Capitão sofre dificuldades para atacar
+inimigos em regiões de mina, sendo necessário o uso de unidades mais
+apropriadas como Arqueiros e Bunkers.
+
+{{ top }}
 
 ## Cavalaria
 
@@ -426,6 +447,17 @@ inicial mais usual de optar pela área militar.
 >
 > — *manual do jogo*
 
+O Dell'Orso é uma unidade montada rápida, forte, com ataque potente, e com
+excelente resistência a danos. Seu custo é relativamente alto — basicamente o
+mesmo de um Capitão. A vantagem do Dell'Orso é observada principalmente no
+começo do jogo, visto que é possível obtê-lo logo nas missões iniciais através
+de descobertas na área de Agricultura. O Dell'Orso tem um ataque muito mais
+confiável e eficiente que o Rhino, cujo projétil pode atingir o terreno fora da
+unidade alvo. O alcance do Dell'Orso, no entanto, é limitado, o que pode
+torná-lo vulnerável a grandes forças de Arqueiros e Bunkers.
+
+{{ top }}
+
 ### Rhino
 
 | ![](units/rhino/rhino.gif) |
@@ -455,7 +487,18 @@ inicial mais usual de optar pela área militar.
 >
 > — *manual do jogo*
 
+O Rhino é a segunda e última unidade militar proveniente das tecnologias de
+agricultura. É uma unidade rápida e forte, porém com um ataque pouquíssimo
+confiável. Similar ao Incendiário, há um atraso entre o ataque e o projétil.
+Além disso, o projétil em si não necessariamente atinge o alvo inicialmente
+determinado. São estas características que tornam o Rhino efetivo apenas em
+números.
+
+{{ top }}
+
 ## Mecânicas
+
+Unidades mecânicas são fabricadas na Oficina.
 
 ### Speeder
 
