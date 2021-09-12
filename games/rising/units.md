@@ -498,7 +498,10 @@ números.
 
 ## Mecânicas
 
-Unidades mecânicas são fabricadas na Oficina.
+Unidades mecânicas são fabricadas na Oficina. A maioria dos veículos requer
+tecnologias militares — com a curiosa exceção do Sun, que vem de uma tecnologia
+da lista de magia. São unidades relativamente baratas — novamente, com a exceção
+do Sun. Um Bunker, por exemplo, tem o mesmo custo de comida de um Capitão.
 
 ### Speeder
 
@@ -525,6 +528,19 @@ Unidades mecânicas são fabricadas na Oficina.
 > fora de linha vibravam tanto que os pinos saltaram e as partes do corpo
 > desmontaram. Não é necessário dizer que os problemas foram retificados e que
 > os novos modelos andam macio como seda e rápido como o trovão....
+>
+> — *manual do jogo*
+
+Dentre as unidades disponíveis para recrutamento, o Speeder provavelmente é a
+unidade mais rápida. Capaz de atravessar o mapa em questão de segundos, um
+grupo de Speeders sem dúvida é uma força flexível, capaz de eliminar pequenas
+bases e arrasar a economia de um jogador rapidamente. Seu alcance de ataque é
+curto comparado a outras unidades, mas sua rapidez para chegar no alvo compensa
+essa deficiência. Além disso, o Speeder é a primeiro veículo que se torna
+disponível através das tecnologias militares (é a oitava tecnologia desta lista,
+portanto potencialmente disponível a partir da sétima missão).
+
+{{ top }}
 
 ### Bunker
 
@@ -553,6 +569,24 @@ Unidades mecânicas são fabricadas na Oficina.
 > tempo ruim. O único problema deste equipamento é seu sistema de suspensão: ele
 > não existe. Isso significa uma viajem dura, chacoalhante e cheia de
 > reclamações dos passageiros.
+>
+> — *manual do jogo*
+
+O Bunker é provavelmente uma das unidades mais poderosas do jogo. Com um custo
+modesto de 10 Comidas e apenas 5 Partes Mecânicas, um pequeno grupo de Bunkers
+tem potencial para ser praticamente imbatível. O Bunker conta com uma boa
+cadência de tiro e um ataque que atinge toda a região adjacente ao tiro —
+*splash damage*, como normalmente esse tipo de dano é caracterizado em jogos.
+Isso o torna extremamente eficiente contra edifícios e unidades 2x2, caso de
+todas as unidades do Circo e da própria Oficina. E para completar, por ser um
+veículo pesado, o Bunker também pode atropelar unidades menores, como civis e
+de infantaria. Em muitos casos é mais eficiente atropelar estas unidades do que
+atirar — e, novamente, em grupo essa técnica se torna ainda mais eficiente.
+Mesmo um grupo de Suns (o dobro do custo de um Bunker) terá problemas ao
+enfrentar um grupo de Bunkers. Todas essas vantagens vem com um custo, é claro:
+construir Bunkers exige a 15ª tecnologia da árvore militar.
+
+{{ top }}
 
 ### Ceifeiro
 
@@ -584,6 +618,17 @@ Unidades mecânicas são fabricadas na Oficina.
 >
 > — *manual do jogo*
 
+O Ceifeiro é a única unidade mecânica "civil" do jogo. Sua velocidade e
+capacidade de carga o tornam extremamente versáteis e eficientes na coleta de
+Comida, potencialmente substituindo sua operação de extração baseada apenas em
+Fazendeiros. Contudo, o Ceifeiro só pode descarregar em um Armazém (ou no
+chão). Note que, assim como qualquer outro veículo, o Ceifeiro pode ser
+pilotado por outras unidades além do Colono. É possível, por exemplo, usar o
+Ceifeiro para transportar unidades militares para o campo de batalha; ou, para
+transportar unidades civis de maneira segura.
+
+{{ top }}
+
 ### Bombardeiro
 
 | ![](units/bombardeiro/bombardeiro.gif) |
@@ -603,6 +648,23 @@ Unidades mecânicas são fabricadas na Oficina.
 >
 > O Bombardeiro e um veículo terrestre. Explosivos são tão instáveis que o
 > Mecânico equipou este equipamento com o sistema de suspensão mais moderno.
+>
+> — *manual do jogo*
+
+Dentre as unidades da Oficina, o Bombardeiro talvez seja o menos interessante.
+A função do Bombardeiro é espalhar minas terrestres pelo mapa. A mina irá
+aniquilar boa parte das unidades inimigas ao ser ativada, o que a princípio
+tornaria o Bombardeiro um ótimo meio de proteger sua base. Contudo, os mapas em
+Rising Lands costumam ser bem abertos, o que já de cara reduz a utilidade das
+minas. O principal problema, no entanto, é recarregar o Bombardeiro. Quando
+construído o Bombardeiro vem com apenas uma mina. Para recarregar é necessário
+levá-lo até uma Garagem. O problema é que a Garagem é obtida somente na outra
+árvore tecnológica, a civil. O Bombardeiro é a 12ª tecnologia militar, e a
+Garagem é a 9ª tecnologia. Ou seja, o conjunto completo só está disponível após
+21 descobertas — na melhor das hipóteses, 13ª missão. E claro, deixando de
+chegar até o Bunker e sem qualquer pesquisa em agricultura.
+
+{{ top }}
 
 ### Sun
 
@@ -626,6 +688,21 @@ Unidades mecânicas são fabricadas na Oficina.
 > canhões tremendamente poderosos cospem fogo do inferno, daí o nome. As fendas
 > oculares permitem ao motorista e Druidas dirigir-se ao alvo e transformá-lo em
 > torresmos....
+>
+> — *manual do jogo*
+
+O Sun compete diretamente com o Bunker como os melhores veículos (e unidades)
+do jogo. Seu ataque é rápido e extremamente poderoso, eliminando a maioria das
+unidades civis e de infantaria em dois tiros. Contra edifícios e veículos
+apenas o Bunker é mais poderoso, o que oferece um desafio: equilibrar o número
+de Suns e Bunkers para eliminar tanto forças de infantaria como veículos
+inimigos. Por outro lado, o Sun é também a unidade mais cara do jogo,
+principalmente em termos de Partes Mecânicas. Não é fácil juntar 10 Partes
+Mecânicas, e com essa mesma quantidade é possível construir dois Bunkers.
+Apesar disso, individualmente, o Sun é a unidade mais poderosa do jogo. Outra
+peculiaridade é a tecnologia que destrava o Sun: a 5ª da árvore de magia.
+
+{{ top }}
 
 ## Aéreas
 
@@ -649,6 +726,10 @@ Unidades mecânicas são fabricadas na Oficina.
 > inventor do balão), alguns engenheiros aeronáuticos se uniram para carimbar
 > essa invenção. É a única máquina voadora que pode mover suas tropas
 > (excetuando-se o Arqueiro) pelo ar. O Balão é indestrutível.
+>
+> — *manual do jogo*
+>
+{{ top }}
 
 ### Helicóptero
 
@@ -673,6 +754,10 @@ Unidades mecânicas são fabricadas na Oficina.
 > ventilador gigante. Quando eles ligaram-no, ele destruiu todos os edifícios ao
 > seu redor. Obviamente não daria para usá-lo deste jeito, então eles voltaram à
 > prancheta e surgiram com uma poderosa unidade aérea - o Heliped....
+>
+> — *manual do jogo*
+
+{{ top }}
 
 ## Especiais
 
@@ -701,6 +786,10 @@ Unidades mecânicas são fabricadas na Oficina.
 > Mensageiro é absolutamente essencial para fechar negócios e formar alianças.
 > Totalmente obcecado pela sua missão diplomática, ele chega até a esquecer de
 > comer.
+>
+> — *manual do jogo*
+
+{{ top }}
 
 ### Druida
 
@@ -729,6 +818,10 @@ Unidades mecânicas são fabricadas na Oficina.
 > tipo de armadura, estando totalmente desprotegido quando atacado. O Druida é
 > governado pelo desejo de evitar as pessoas, e obter a perfeita "Unidade" com a
 > energia do Cristal.
+>
+> — *manual do jogo*
+
+{{ top }}
 
 ## Criaturas das Sombras
 
@@ -738,11 +831,15 @@ Unidades mecânicas são fabricadas na Oficina.
 | :--------------------------: |
 |            Raptor            |
 
+{{ top }}
+
 ### Bukka
 
 | ![](units/bukka/bukka.gif) |
 | :------------------------: |
 |           Bukka            |
+
+{{ top }}
 
 ### Lançador
 
@@ -750,14 +847,20 @@ Unidades mecânicas são fabricadas na Oficina.
 | :------------------------------: |
 |             Lançador             |
 
+{{ top }}
+
 ### Esmagador
 
 | ![](units/esmagador/esmagador.gif) |
 | :--------------------------------: |
 |             Esmagador              |
 
+{{ top }}
+
 ### Estalador
 
 | ![](units/estalador/estalador.gif) |
 | :--------------------------------: |
 |             Estalador              |
+
+{{ top }}
