@@ -20,7 +20,7 @@ algumas categorias, mas eu prefiro dividí-las em:
 - **Mecânicas**: unidades da Oficina;
 - **Aéreas**: unidades do Heliporto; e
 - **Especiais**: Mensageiro e Druida;
-- **Criaturas** das Sombras.
+- Criaturas das Sombras.
 
 --------------------------------------------------------------------------------
 
@@ -374,7 +374,8 @@ duas descobertas por missão.
 > CAPITÃO
 >
 > - Unidade Militar
-> - Custo		Comida: 10 Pedras: 3	Visão: 8/10
+> - Custo: Comida: 10 / Pedras: 3
+> - Visão: 8/10
 > - Armas: canhão de cristal
 > - Alcance: 8
 > - Papel: comandante rígido das tropas
@@ -501,7 +502,9 @@ números.
 Unidades mecânicas são fabricadas na Oficina. A maioria dos veículos requer
 tecnologias militares — com a curiosa exceção do Sun, que vem de uma tecnologia
 da lista de magia. São unidades relativamente baratas — novamente, com a exceção
-do Sun. Um Bunker, por exemplo, tem o mesmo custo de comida de um Capitão.
+do Sun. Um Bunker, por exemplo, tem o mesmo custo de comida de um Capitão. Tanto
+o Bunker como o Sun também tem a capacidade de atropelar unidades a pé, o que é
+particularmente eficiente contra forças inimigas de infantaria.
 
 ### Speeder
 
@@ -706,6 +709,11 @@ peculiaridade é a tecnologia que destrava o Sun: a 5ª da árvore de magia.
 
 ## Aéreas
 
+Unidades aéreas são treinadas no Heliporto. O Balão vem automaticamente com o
+Heliporto e serve tanto para transportar unidades como para explorar o mapa e
+espionar outros clãs. O Helicóptero é uma unidade de ataque rápida porém com
+capacidade limitada.
+
 ### Balão
 
 | ![](units/balao/balao-full.gif) |
@@ -728,7 +736,23 @@ peculiaridade é a tecnologia que destrava o Sun: a 5ª da árvore de magia.
 > (excetuando-se o Arqueiro) pelo ar. O Balão é indestrutível.
 >
 > — *manual do jogo*
->
+
+O Balão é uma unidade de transporte versátil. Capaz de carregar cinco
+passageiros (seis, com os upgrades da árvore tecnológica civil), o Balão pode
+ser usado tanto para transporte como para exploração e espionagem. O Balão é
+automaticamente treinado assim que o Heliporto é construído **E** populado por
+ao menos um Colono. O Balão surge de uma região do mapa (normalmente do norte)
+e, se não for movido, é trazido automaticamente ao seu Santuário. Se seu último
+Heliporto for esvaziado ou destruído você perde o controle do Balão, que é
+levado eventualmente para fora do mapa. Note que quaisquer unidades dentro do
+Balão serão perdidas nesse processo. Mesmo sem poder controlar o Balão ainda é
+possível retirar (e colocar, se é que isso faz sentido) unidades. Por fim,
+Arqueiros não podem entrar no Balão — o que é uma pena, a combinação tática
+seria fantástica, visto que o Arqueiro é capaz de atuar bem mesmo em terrenos
+acidentados. Mesmo assim o Balão é extremamente útil em missões que exigem a
+construção de Santuários em locais do mapa — notadamente as últimas missões, que
+exigem a construção de um Santuário no sudeste.
+
 {{ top }}
 
 ### Helicóptero
@@ -757,9 +781,25 @@ peculiaridade é a tecnologia que destrava o Sun: a 5ª da árvore de magia.
 >
 > — *manual do jogo*
 
+O Helicóptero é uma unidade pouco usual — no mesmo nível do Bombardeiro.
+Diferente do Balão, o Helicóptero deve ser construído no Heliporto — e não é
+barato. Seu ataque é o bombardeio aéreo; relativamente poderoso, porém bastante
+limitado em termos de cargas. O Helicóptero tem a vantagem de ser alvejado
+apenas pelo Arqueiro e pelo Capitão, portanto ele pode ser usado para ataques
+rápidos contra unidades específicas. Mesmo assim, para matar qualquer unidade a
+pé são necessários pelo menos três ataques — dos cinco que o Helicóptero pode
+efetuar antes de recarregar suas bombas, o que é feito no Heliporto (basta
+selecionar o Helicóptero e clicar no Heliporto). Ou seja, cada rodada de
+ataques só é capaz de matar uma unidade, o que torna o Helicóptero pouquíssimo
+eficiente. Contudo, é uma unidade rápida e aérea, portanto pode explorar
+rapidamente o mapa.
+
 {{ top }}
 
 ## Especiais
+
+Classifico como unidades especiais o Mensageiro (diplomacia e comércio) e o
+Druida (magia).
 
 ### Mensageiro
 
@@ -770,7 +810,7 @@ peculiaridade é a tecnologia que destrava o Sun: a 5ª da árvore de magia.
 > MENSAGEIRO
 >
 > - Unidade Militar
-> - Custo		Comida: 2
+> - Custo: Comida: 2
 > - Visão: 5/10
 > - Arma: nenhuma
 > - Papel: negociar com outros clãs
@@ -788,6 +828,17 @@ peculiaridade é a tecnologia que destrava o Sun: a 5ª da árvore de magia.
 > comer.
 >
 > — *manual do jogo*
+
+O Mensageiro é a unidade responsável por conduzir sua diplomacia e comércio —
+mais sobre esses tópicos [aqui](./gameplay#diplomacia) e
+[aqui](./gameplay#comércio). O Mensageiro é a unidade mais barata do jogo,
+custando apenas 2 Comidas. Além disso, é mais rápido do que as outras unidades
+de infantaria e é neutro em relação aos inimigos — não é atacado por clãs
+inimigos e nem mesmo pelo Grupo dos Assassinos ou pelas Criaturas das Sombras.
+Portanto, o Mensageiro é uma boa unidade para ser usada para exploração do
+mapa. Embora o arquivo de configuração do jogo não mostre diferença nos
+parâmetros do Mensageiro, de fato a impressão durante o jogo é que ele precisa
+se alimentar menos que as outras unidades.
 
 {{ top }}
 
@@ -821,15 +872,41 @@ peculiaridade é a tecnologia que destrava o Sun: a 5ª da árvore de magia.
 >
 > — *manual do jogo*
 
+O Druida é a única unidade do jogo com capacidades mágicas. O Druida possui um
+ataque *melee* que é extremamente fraco e só pode ser executado através da
+tecla ALT — e não pode alvejar uma unidade diretamente. Sua habilidade
+principal é efetuar magias. O principal problema é o custo dessas magias. Um
+Druida com a evolução máxima da árvore de magia tem 20 pontos de Mana. A magia
+do Nova — ataque similar ao de um Bunker ou do Canhão — custa 8 pontos de Mana.
+Ou seja, na melhor das hipóteses são apenas dois ataques. Outras magias podem
+ser mais baratas mas tem duração muito curta, como a magia do Espelho. Enfim, o
+Druida junta-se ao Bombardeiro e ao Helicóptero como unidades pouco usuais e
+pouco usadas em jogos sérios.
+
 {{ top }}
 
 ## Criaturas das Sombras
+
+As Criaturas das Sombras começam a aparecer no jogo a partir da sétima missão.
+Assim como o Grupo dos Assassinos, são unidades que aparecem aleatoriamente
+durante o jogo para atacar unidades e construções dos clãs.
 
 ### Raptor
 
 | ![](units/raptor/raptor.gif) |
 | :--------------------------: |
 |            Raptor            |
+
+O Raptor parece um lagarto ou um pequeno dinossauro. É uma unidade extremamente
+rápida com um ataque parecido com o do Incendiário, com um atraso entre o início
+do ataque, a animação, e o dano em si. Aparece logo na 7ª missão, normalmente
+logo no início da mesma. Costuma ser bastante irritante já que se move
+rapidamente, podendo causar danos consideráveis a unidades civis, como grupos de
+Fazendeiros. Também costuma danificar construções, particularmente seus
+Armazéns. Em missões mais avançadas as Criaturas das Sombras costumam atacar em
+bandos — *spawnando* ao mesmo tempo no mapa. Ou seja, quando você é atacado por
+um ou dois Raptors, fique em alerta: pode ser sinal de um ataque maior com
+outras criaturas menos velozes, como o Bukka e o Esmagador.
 
 {{ top }}
 
@@ -839,6 +916,13 @@ peculiaridade é a tecnologia que destrava o Sun: a 5ª da árvore de magia.
 | :------------------------: |
 |           Bukka            |
 
+O Bukka age basicamente como um Arqueiro, tanto em termos de ataque como
+movimentação. Costuma aparecer por volta da 11ª missão, normalmente sozinho ou
+acompanhado por Raptors. Seu ataque rápido pode eliminar rapidamente unidades
+mais expostas, como Fazendeiros e Construtores. Por ser mais lento, no entanto,
+é fácil deslocar suas unidades de modo a evitar seus ataques — e aí deslocar
+unidades militares para eliminá-lo.
+
 {{ top }}
 
 ### Lançador
@@ -846,6 +930,14 @@ peculiaridade é a tecnologia que destrava o Sun: a 5ª da árvore de magia.
 | ![](units/lancador/lancador.gif) |
 | :------------------------------: |
 |             Lançador             |
+
+O Lançador é um atirador de pedras montado no que parece ser um javali gigante.
+O Lançador é uma versão melhorada do Bukka, com movimentação superior e mais
+resistente a danos. Por exemplo, considerando unidades sem maiores upgrades,
+cada ataque do Arqueiro desfere 15 pontos de dano contra um Bukka — versus 12
+contra um Lançador. Considerando um Sun a diferença é ainda maior: 80 contra o
+Bukka versus 50 contra o Lançador. O Lançador costuma aparecer um pouco depois
+do Bukka, talvez a partir da 14ª missão.
 
 {{ top }}
 
@@ -855,6 +947,14 @@ peculiaridade é a tecnologia que destrava o Sun: a 5ª da árvore de magia.
 | :--------------------------------: |
 |             Esmagador              |
 
+O Esmagador é a unidade mais perigosa das Criaturas das Sombras. Um gigante com
+braços compridos e pernas curtas, seu ataque é razoável mas sua resistência a
+danos é imbatível. Mesmo um Sun tipicamente precisa de pelo menos quatro tiros
+para derrubar um Esmagador. Combinado com outras forças, tipicamente Lançadores
+e Bukkas, as Criaturas das Sombras finalmente contam com um *tank* (expressão
+usual para indicar unidades capazes de absorver danos inimigos enquanto outras
+causam danos) para atacar suas bases.
+
 {{ top }}
 
 ### Estalador
@@ -862,5 +962,12 @@ peculiaridade é a tecnologia que destrava o Sun: a 5ª da árvore de magia.
 | ![](units/estalador/estalador.gif) |
 | :--------------------------------: |
 |             Estalador              |
+
+O Estalador é a última e mais estranha das Criaturas das Sombras. Um tipo de
+tartaruga radioativa, o Estalador irá começar a aparecer por volta da 19ª
+missão. Tipicamente seu comportamento é completamente inútil; por ser uma
+unidade lenta e, aparentemente, com uma capacidade nula de encontrar seu caminho
+até o alvo, o Estalador raramente ataca alguma unidade nesses mapas. A única
+missão que o Estalador pode ter alguma atuação de fato é na 23ª missão.
 
 {{ top }}
