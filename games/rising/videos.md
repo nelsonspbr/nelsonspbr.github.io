@@ -4,7 +4,7 @@ title: Videos
 permalink: /games/rising/videos
 parent: Rising Lands
 grand_parent: Games
-nav_order: 6
+nav_order: 7
 has_children: false
 ---
 

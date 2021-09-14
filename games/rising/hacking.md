@@ -4,7 +4,7 @@ title: Hacking
 permalink: /games/rising/hacking
 parent: Rising Lands
 grand_parent: Games
-nav_order: 8
+nav_order: 9
 has_children: false
 ---
 

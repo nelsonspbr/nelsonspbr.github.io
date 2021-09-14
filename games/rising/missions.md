@@ -4,7 +4,7 @@ title: Missions
 permalink: /games/rising/missions
 parent: Rising Lands
 grand_parent: Games
-nav_order: 5
+nav_order: 6
 has_children: false
 ---
 

@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Tips
-permalink: /games/rising/tips
+title: Technologies
+permalink: /games/rising/technologies
 parent: Rising Lands
 grand_parent: Games
-nav_order: 8
+nav_order: 5
 has_children: false
 ---
 
-# Dicas
+# Tecnologias
 {: .no_toc }
 
-Esta página reune algumas dicas de Rising Lands.
+Esta página descreve as tecnologias de Rising Lands.
 
 --------------------------------------------------------------------------------
 

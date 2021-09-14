@@ -4,7 +4,7 @@ title: Lore
 permalink: /games/rising/lore
 parent: Rising Lands
 grand_parent: Games
-nav_order: 9
+nav_order: 10
 has_children: false
 ---
 
