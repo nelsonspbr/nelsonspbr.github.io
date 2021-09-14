@@ -11,8 +11,9 @@ has_children: false
 # Unidades
 {: .no_toc }
 
-Esta página descreve as unidades de Rising Lands. O manual do jogo até define
-algumas categorias, mas eu prefiro dividí-las em:
+Esta página descreve as unidades de Rising Lands.
+
+O manual do jogo até define algumas categorias, mas eu prefiro dividí-las em:
 
 - **Civis**: Colono e unidades do Santuário;
 - **Infantaria**: unidades da Caserna;
