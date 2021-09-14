@@ -399,13 +399,13 @@ duas descobertas por missão.
 > — *manual do jogo*
 
 O Capitão é a unidade mais avançada de infantaria em termos de capacidade de
-ataque, velocidade, e resistência. Versátil, rapidamente posicionado em campo
-de batalha, capaz de cobrir grandes distâncias com muito mais eficiências que
-seus companheiros de Caserna, o Capitão é uma ótima opção para compor suas
-forças. Mesmo uma pequena força de Capitães é capaz de causar estragos na
-economia do inimigo. Uma força suficientemente grande pode fazer frente até
-mesmo a um grupo de Suns. Contudo, o Capitão sofre dificuldades para atacar
-inimigos em regiões de mina, sendo necessário o uso de unidades mais
+ataque, velocidade, e resistência. Versátil, pode ser rapidamente posicionado em
+campo de batalha e é capaz de cobrir grandes distâncias com muito mais
+eficiência que seus companheiros de Caserna — o Capitão é uma ótima opção para
+compor suas forças. Mesmo uma pequena força de Capitães é capaz de causar
+estragos na economia do inimigo. Uma força suficientemente grande pode fazer
+frente até mesmo a um grupo de Suns. Contudo, o Capitão sofre dificuldades para
+atacar inimigos em regiões de mina, sendo necessário o uso de unidades mais
 apropriadas como Arqueiros e Bunkers.
 
 {{ top }}
