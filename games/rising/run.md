@@ -181,41 +181,46 @@ Se você não tem mais o CD do jogo, é possível encontrá-lo em português no 
 archive.org. Esta versão não exige instalação. Para rodar basta seguir estes
 passos:
 
-1. Visite o link:
-   [https://archive.org/details/risinglandsbr](https://archive.org/details/risinglandsbr).
+1.  Visite o link:
+    [https://archive.org/details/risinglandsbr](https://archive.org/details/risinglandsbr).
 
-2. Em "DOWNLOAD OPTIONS" clique na opção "SHOW ALL".
+2.  Em "DOWNLOAD OPTIONS" clique na opção "SHOW ALL".
 
     | ![](images/2021-10-16-16-09-20.png) |
     | :---------------------------------: |
     |       **Jogo no archive.org**       |
 
-3. Uma nova página irá abrir. Você deve baixar os arquivos `.CUE` e `.BIN`.
+3.  Uma nova página irá abrir. Você deve baixar os arquivos `.CUE` e `.BIN`.
 
     | ![](images/2021-10-16-16-10-56.png) |
     | :---------------------------------: |
     |  **Arquivos CUE/BIN para baixar**   |
 
-4. Para montar a imagem eu recomendo a ferramenta **WinCDEmu**. Você pode
-   encontrar o WinCDEmu em https://wincdemu.sysprogs.org/. É gratuito e não
-   costuma vir com malware; para garantir, baixe diretamente do site do
-   desenvolvedor.
+4.  Para montar a imagem eu recomendo a ferramenta **WinCDEmu**. Você pode
+    encontrar o WinCDEmu em
+    [https://wincdemu.sysprogs.org/download/](https://wincdemu.sysprogs.org/download/).
+    É gratuito e não costuma vir com malware; para garantir, baixe diretamente
+    do site do desenvolvedor.
+
+5.  Com o WinCDEmu instalado, basta clicar duas vezes no arquivo CUE. Isto irá
+    abrir a janelinha do WinCDEmu (abaixo) com as opções para montar o CD. Basta
+    clicar em "OK".
 
     | ![](images/2021-08-20-09-43-16.png) |
     | :---------------------------------: |
     |            **WinCDEmu**             |
 
-5. Com o WinCDEmu instalado, basta clicar duas vezes no arquivo CUE. Isto irá
-   abrir a janelinha do WinCDEmu com as opções para montar o CD.
+6.  Feito isso você verá o CD montado no seu sistema. O último passo é copiar a
+    pasta `INSTALLHD` em algum lugar do seu disco.
 
-6. Feito isso você verá o CD montado no seu sistema. O último passo é copiar a
-   pasta `INSTALLHD` em algum lugar do seu disco.
+    | ![](images/mounted-image.png) |
+    | :---------------------------: |
+    |      **Imagem montada**       |
 
-7. Pronto! Agora basta seguir os passos <a href="#Instruções">acima</a> para
-   jogar Rising Lands em sistemas modernos. Vale lembrar que o CD deve estar
-   montado sempre que você for jogar — caso contrário ele não irá carregar as
-   missões corretamente.
-
+7.  Pronto! Agora basta seguir os passos <a href="#Instruções">acima</a> para
+    jogar Rising Lands em sistemas modernos. Vale lembrar que o CD deve estar
+    montado sempre que você for jogar — caso contrário ele não irá carregar as
+    missões corretamente.
 
 ## Resolução de Problemas
 
