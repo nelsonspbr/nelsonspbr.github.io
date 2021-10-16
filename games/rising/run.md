@@ -138,8 +138,8 @@ instalar o jogo já pode ser suficientemente complicado, especialmente se você
 não tem mais o CD do jogo. Contudo, vale destacar que é possível encontrar o CD
 no <a href="https://archive.org/details/software?query=rising+lands"
 target="_blank">archive.org</a> — inclusive em português! Se você precisa baixar
-o jogo, confira os passos para <a href="#usando-a-versão-do-archiveorg">usar a
-versão do archive.org</a>.
+o jogo, confira primeiro os passos para <a
+href="#usando-a-versão-do-archiveorg">usar a versão do archive.org</a>.
 
 ## Instruções
 
