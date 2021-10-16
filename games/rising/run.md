@@ -133,11 +133,13 @@ No caso de Rising Lands isso permite que a gente configure o **vSync**
 (sincronização vertical), que faz com que o jogo rode na mesma velocidade do
 monitor — efetivamente resolvendo o problema do jogo rodar rápido demais.
 
-Esse guia assume que o jogo já está instalado — tipicamente em `C:/RISING`.
-Sim, instalar o jogo já pode ser suficientemente complicado, especialmente se
-você não tem mais o CD do jogo. Contudo, vale destacar que é possível encontrar
-o CD no <a href="https://archive.org/details/software?query=rising+lands"
-target="_blank">archive.org</a> — inclusive em português!
+Esse guia assume que o jogo já está instalado — tipicamente em `C:/RISING`. Sim,
+instalar o jogo já pode ser suficientemente complicado, especialmente se você
+não tem mais o CD do jogo. Contudo, vale destacar que é possível encontrar o CD
+no <a href="https://archive.org/details/software?query=rising+lands"
+target="_blank">archive.org</a> — inclusive em português! Se você precisa baixar
+o jogo, confira os passos para <a href="#usando-a-versão-do-archiveorg">usar a
+versão do archive.org</a>.
 
 ## Instruções
 
@@ -217,7 +219,7 @@ passos:
     | :---------------------------: |
     |      **Imagem montada**       |
 
-7.  Pronto! Agora basta seguir os passos <a href="#Instruções">acima</a> para
+7.  Pronto! Agora basta seguir os passos <a href="#instruções">acima</a> para
     jogar Rising Lands em sistemas modernos. Vale lembrar que o CD deve estar
     montado sempre que você for jogar — caso contrário ele não irá carregar as
     missões corretamente.
