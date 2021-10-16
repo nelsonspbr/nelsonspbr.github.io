@@ -212,8 +212,9 @@ passos:
     | :---------------------------------: |
     |            **WinCDEmu**             |
 
-6.  Feito isso você verá o CD montado no seu sistema. O último passo é copiar a
-    pasta `INSTALLHD` em algum lugar do seu disco.
+6.  Feito isso você verá o CD montado no seu sistema. O último passo é copiar o
+    conteúdo do CD montado em uma pasta no seu sistema – por exemplo,
+    `C:/RISING`. Note que a pasta que contém o jogo é a `INSTALLHD`.
 
     | ![](images/mounted-image.png) |
     | :---------------------------: |
