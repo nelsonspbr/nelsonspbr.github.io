@@ -4,6 +4,7 @@ title: Privacy Policy
 permalink: /dev/bmr/privacy
 parent: BMR
 grand_parent: Development
+nav_order: 1
 has_children: false
 ---
 
@@ -157,3 +158,6 @@ indicated with the latest date and the updated version will be effective as soon
 as it is accessible.
 
 ## Contact us
+
+If you have any questions or comments, please use our
+[GitHub Issues](https://github.com/nelsonspbr/bmr.support/issues/new) system.
