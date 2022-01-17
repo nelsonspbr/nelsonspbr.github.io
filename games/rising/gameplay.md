@@ -233,7 +233,7 @@ abaixo.
 
 ## Unidades e Alimentação
 
-<!-- TODO -->
+<!-- #TODO -->
 
 - barra de espaço = stats
 - barra de vida
@@ -257,18 +257,86 @@ unidades comam — desde que a pizza esteja pelo menos com um pedaço faltando.
 Basta pressionar a tecla **E**. Isso por ajudar, por exemplo, quando você quiser
 "sincronizar" a alimentação de um grupo de unidades antes de movê-las.
 
-<!-- TODO: Adicionar vídeo disso -->
+<!-- #TODO: Adicionar vídeo disso -->
 
 {{ top }}
 
 ## Pesquisa Científica
 
-<!-- TODO -->
+> Você pode escolher um campo de pesquisas por missão. Clique com o botão
+> esquerdo sobre o ícone que representa o campo de pesquisas que você quer
+> seguir. Uma vez iniciada uma missão, você deve construir um Laboratório e
+> torná-lo operante, para que as pesquisas lá se desenvolvam.
+>
+> Você mantém suas descobertas tecnológicas de uma missão para a próxima. A
+> partir da terceira missão, é importante monitorar as áreas nas quais você
+> conduz pesquisas. Durante as duas primeiras missões, você não poderá realizar
+> pesquisas; além do mais, pesquisas em Religião e Mágica só são possíveis após
+> você descobrir o Portão de Cristal. Quando o jogo começa, você já possui
+> certas tecnologias, como por exemplo, a habilidade de construir um Santuário
+> ou treinar um Espadachim. Por essa razão as pesquisas já podem ser
+> consideradas em estágio avançado desde a primeira missão (mas você só poderá
+> começar a pesquisar a partir da terceira missão).
+>
+> Colonizadores designados para o Laboratório de Pesquisas podem fazer no máximo
+> duas descobertas por missão. Após isso, eles se sentem tão satisfeitos com
+> suas conquistas que param de trabalhar e tiram uma soneca. Se ao fim de uma
+> missão eles tiverem feito apenas uma descoberta ou nenhuma descoberta, o nível
+> de pesquisa alcançado é carregado para a próxima missão. Para se manter
+> informado a respeito do sucesso de seus pesquisadores, pressione Esc para
+> voltar ao menu e pressione Objetivo da Missão. Uma porcentagem aparece para
+> indicar o quanto de pesquisa foi alcançado.
+>
+> É quase impossível descobrir todas as grandes invenções nos quatro campos de
+> pesquisa durante um único jogo. Uma vez completadas todas as missões, nós
+> recomendamos tentar uma outra estratégia de pesquisa no próximo jogo.
+>
+> Logo que uma invenção é feita, um texto aparece logo acima da barra de
+> interface, bem como uma claquete de cinema. A invenção pode ser utilizada
+> imediatamente (excetuando-se Mágica - ver o próximo parágrafo). Clique sobre a
+> claquete para chamar uma seqüência de animação ilustrando os eventos. A
+> claquete irá com o tempo desaparecer.
+>
+> — *manual do jogo*
+
+Rising Lands conta com quatro campos de pesquisa:
 
 - Agricultura
 - Civil
 - Militar
 - Magia
+
+O campo de Agricultura (ou Agricultura e Ecologia) irá melhorar sua capacidade
+de coleta de Comida e sua eficiência no recrutamento de novos Colonos. Com
+tecnologias suficientes pesquisadas seus Fazendeiros poderão carregar duas
+Comidas ao mesmo tempo, serão capazes de coletar Comida a partir de Vegetais
+mais rapidamente, e a Cultura irá gerar novos Colono com apenas 2+1 Comidas
+(comparado com 4+1 do início do jogo). Essas vantagens são cruciais para manter
+uma economia sólida e, portanto, uma constante expansão e criação de unidades.
+Outro ponto estratégico trazido pela área de Agricultura são as unidades do
+Circo — em particular o Dell'Orso, que é bem balanceado em termos de ataque,
+resistência a danos, e mobilidade.
+
+O campo Civil (ou de Engenharia Civil, ou ainda Serviço Civil) traz diversas
+construções novas, como o Heliporto, o Farol, e o Hospital. Além disso ele
+também traz melhorias ao Construtor em termos de extração e transporte de
+Pedras. Dentre as diversas áreas, exceto pelo Heliporto (Balão), a área Civil é
+provavelmente a menos interessante em termos estratégicos; a mais fraca em
+termos de impacto no jogo — principalmente em curto prazo.
+
+O campo Militar (ou Pesquisa Militar) é fundamental para destravar unidades
+melhores, bem como trazer melhorias a suas unidades existentes. Isto inclui as
+unidades de infantaria, como o Arqueiro e o Capitão, bem como os veículos
+militares — com a exceção do Sun. Em qualquer jogo convencional o segredo está
+em equilibrar descobertas da área de Agricultura e da área Militar — e,
+eventualmente, encaixar a área de Magia até chegar no Sun.
+
+O campo de Magia (ou Religião e Magia) destrava as magias que podem ser
+lançadas pelo Druida. E claro, destrava o Sun, talvez a melhor unidade do jogo
+em termos de poder de ataque, mobilidade, e resistência. Tirando o Sun é uma
+árvore pouco útil. Como mencionado anteriormente, a estratégia mais típica
+consiste em encaixar as pesquisas de Magia entre outras árvores mais
+interessantes, como a de Agricultura e a Militar.
 
 {{ top }}
 
