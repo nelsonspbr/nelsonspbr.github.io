@@ -306,6 +306,10 @@ Rising Lands conta com quatro campos de pesquisa:
 - Militar
 - Magia
 
+| <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/tecnologias.mp4" type="video/mp4"></video> |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                             Tecnologias                                                                                              |
+
 O campo de Agricultura (ou Agricultura e Ecologia) irá melhorar sua capacidade
 de coleta de Comida e sua eficiência no recrutamento de novos Colonos. Com
 tecnologias suficientes pesquisadas seus Fazendeiros poderão carregar duas
