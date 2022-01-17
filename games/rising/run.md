@@ -133,11 +133,13 @@ No caso de Rising Lands isso permite que a gente configure o **vSync**
 (sincronização vertical), que faz com que o jogo rode na mesma velocidade do
 monitor — efetivamente resolvendo o problema do jogo rodar rápido demais.
 
-Esse guia assume que o jogo já está instalado — tipicamente em `C:/RISING`.
-Sim, instalar o jogo já pode ser suficientemente complicado, especialmente se
-você não tem mais o CD do jogo. Contudo, vale destacar que é possível encontrar
-o CD no <a href="https://archive.org/details/software?query=rising+lands"
-target="_blank">archive.org</a> — inclusive em português!
+Esse guia assume que o jogo já está instalado — tipicamente em `C:/RISING`. Sim,
+instalar o jogo já pode ser suficientemente complicado, especialmente se você
+não tem mais o CD do jogo. Contudo, vale destacar que é possível encontrar o CD
+no <a href="https://archive.org/details/software?query=rising+lands"
+target="_blank">archive.org</a> — inclusive em português! Se você precisa baixar
+o jogo, confira primeiro os passos para <a
+href="#usando-a-versão-do-archiveorg">usar a versão do archive.org</a>.
 
 ## Instruções
 
@@ -175,6 +177,54 @@ target="_blank">archive.org</a> — inclusive em português!
 
 6.  Clique em "OK" e rode o jogo, `RISING.EXE`. Pronto, isso deve servir!
 
+## Usando a versão do archive.org
+
+Se você não tem mais o CD do jogo, é possível encontrá-lo em português no site
+archive.org. Esta versão não exige instalação. Para rodar basta seguir estes
+passos:
+
+1.  Visite o link:
+    [https://archive.org/details/risinglandsbr](https://archive.org/details/risinglandsbr).
+
+2.  Em "DOWNLOAD OPTIONS" clique na opção "SHOW ALL".
+
+    | ![](images/2021-10-16-16-09-20.png) |
+    | :---------------------------------: |
+    |       **Jogo no archive.org**       |
+
+3.  Uma nova página irá abrir. Você deve baixar os arquivos `.CUE` e `.BIN`.
+
+    | ![](images/2021-10-16-16-10-56.png) |
+    | :---------------------------------: |
+    |  **Arquivos CUE/BIN para baixar**   |
+
+4.  Para montar a imagem eu recomendo a ferramenta **WinCDEmu**. Você pode
+    encontrar o WinCDEmu em
+    [https://wincdemu.sysprogs.org/download/](https://wincdemu.sysprogs.org/download/).
+    É gratuito e não costuma vir com malware; para garantir, baixe diretamente
+    do site do desenvolvedor.
+
+5.  Com o WinCDEmu instalado, basta clicar duas vezes no arquivo CUE. Isto irá
+    abrir a janelinha do WinCDEmu (abaixo) com as opções para montar o CD. Basta
+    clicar em "OK".
+
+    | ![](images/2021-08-20-09-43-16.png) |
+    | :---------------------------------: |
+    |            **WinCDEmu**             |
+
+6.  Feito isso você verá o CD montado no seu sistema. O último passo é copiar o
+    conteúdo do CD montado em uma pasta no seu sistema – por exemplo,
+    `C:/RISING`. Note que a pasta que contém o jogo é a `INSTALLHD`.
+
+    | ![](images/mounted-image.png) |
+    | :---------------------------: |
+    |      **Imagem montada**       |
+
+7.  Pronto! Agora basta seguir os passos <a href="#instruções">acima</a> para
+    jogar Rising Lands em sistemas modernos. Vale lembrar que o CD deve estar
+    montado sempre que você for jogar — caso contrário ele não irá carregar as
+    missões corretamente.
+
 ## Resolução de Problemas
 
 1.  <b>O jogo inicia mas a descrição das missões está vazia. Eu tento iniciar o
@@ -187,22 +237,7 @@ target="_blank">archive.org</a> — inclusive em português!
     Certifique-se de que o CD do jogo pode ser encontrado e lido, seja o CD
     físico no drive ou montado no seu sistema.
 
-2.  <b>Como eu monto uma imagem de CD?</b>
-
-    Isso é um pouco fora do escopo desse guia, mas se você tem um arquivo ISO
-    ou CUE/BIN você pode usar uma ferramenta como o **WinCDEmu** para montar a
-    imagem no sistema. Isso cria um drive virtual que faz com que o sistema
-    pense que existe um CD inserido. Você pode encontrar o WinCDEmu em <a
-    href="https://wincdemu.sysprogs.org/"
-    target="_blank">https://wincdemu.sysprogs.org/</a>. É gratuito e não
-    costuma vir com malware; para garantir, baixe diretamente do site do
-    desenvolvedor.
-
-    | ![](images/2021-08-20-09-43-16.png) |
-    | :---------------------------------: |
-    |            **WinCDEmu**             |
-
-3.  <b>O jogo está sem música.</b>
+2.  <b>O jogo está sem música.</b>
 
     Isso infelizmente acontece mesmo, especialmente se você está apenas montando
     o CD. A solução mais simples é jogar com o CD físico ou tocar a música a

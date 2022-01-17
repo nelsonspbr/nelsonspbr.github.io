@@ -8,5 +8,3 @@ permalink: /
 - <a href="https://www.linkedin.com/in/nelsonspbr" target="_blank">Linkedin</a>
 - <a href="https://twitter.com/nmimurag" target="_blank">Twitter</a>
 - <a href="https://www.instagram.com/nmimurag" target="_blank">Instagram</a>
-
-_Last timestamp: 2021/08/19 20:06 ET_
