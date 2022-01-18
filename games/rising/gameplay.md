@@ -240,9 +240,24 @@ abaixo.
 - pontos de experiência
 - pizza
 
+> Unidades humanas selecionadas aparecem dentro de um quadrado branco, com um
+> medidor de vida vertical e um gráfico de Comida.
+>
+> O medidor de vida indica o número de pontos de vida daquele personagem: quando
+> totalmente verde, seu personagem tem o máximo de pontos de vida. À medida em
+> que o personagem é abatido, o medidor muda para amarelo e então para
+> vermelho…o último passo antes da morte. O personagem pode apenas reconquistar
+> pontos de vida se passar pelo Hospital (exceto unidades animais, que não podem
+> ter seus ferimentos ali tratados.)
+>
+> O gráfico de comida dá informação a respeito do estado do racionamento de
+> Comida para seu personagem. Se o gráfico estiver cheio, seu personagem está
+> com o estômago cheio; se ele estiver quase vazio, é uma boa idéia movê-lo para
+> algum ponto onde haja comida, para que ele não morra de fome.
+>
 > Unidades militares adquirem pontos de experiência, que aparecem na forma de
-> pequenos triângulos junto ao gráfico de Comida.
-> Uma unidade militar pode adquirir um máximo de 4 pontos de experiência:
+> pequenos triângulos junto ao gráfico de Comida. Uma unidade militar pode
+> adquirir um máximo de 4 pontos de experiência:
 >
 > - nenhum triângulo: a unidade não possui pontos de experiência
 > - 1 triângulo: maior força de ataque
@@ -252,12 +267,24 @@ abaixo.
 >
 > — *manual do jogo*
 
+Para mostrar o status (pontos de vida, pontos de experiência, pontos de fome) de
+suas unidades, basta selecioná-las ou pressionar ESPAÇO. A imagem abaixo mostra
+um exemplo dos diferentes status de suas unidades.
+
+| ![](images/escudos.png) |
+| :---------------------: |
+|   Status das unidades   |
+
 Um comando que pode ser útil em algumas situações, é possível forçar que suas
 unidades comam — desde que a pizza esteja pelo menos com um pedaço faltando.
 Basta pressionar a tecla **E**. Isso por ajudar, por exemplo, quando você quiser
 "sincronizar" a alimentação de um grupo de unidades antes de movê-las.
 
-<!-- #TODO: Adicionar vídeo disso -->
+| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/fome.mp4" type="video/mp4"></video> |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                    Fome                                                                                                    |
+
+O vídeo acima mostra ambos os casos. Primeiro, duas unidades que esvaziam
 
 {{ top }}
 
