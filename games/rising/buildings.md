@@ -30,7 +30,15 @@ Esta página descreve as construções de Rising Lands.
 
 ## Farol
 
+| ![](buildings/Farol.gif) |
+| :----------------------: |
+|          Farol           |
+
 ## Caserna
+
+| ![](buildings/Caserna.gif) |
+| :------------------------: |
+|          Caserna           |
 
 ## Santuário
 
@@ -72,17 +80,77 @@ Esta página descreve as construções de Rising Lands.
 {{ top }}
 
 ## Armazém
+
+| ![](buildings/Armazem.gif) |
+| :------------------------: |
+|          Armazém           |
+
 ## Cultura
+
+| ![](buildings/Cultura.gif) |
+| :------------------------: |
+|          Cultura           |
+
 ## Oficina
+
+| ![](buildings/Oficina.gif) |
+| :------------------------: |
+|          Oficina           |
+
 ## Biblioteca
+
+| ![](buildings/Biblioteca.gif) |
+| :---------------------------: |
+|          Biblioteca           |
+
 ## Laboratório
+
+| ![](buildings/Laboratorio.gif) |
+| :----------------------------: |
+|          Laboratório           |
+
 ## Hangar
+
+| ![](buildings/Hangar.gif) |
+| :-----------------------: |
+|          Hangar           |
+
 ## Muro
+
+| ![](buildings/Muro.gif) |
+| :---------------------: |
+|          Muro           |
+
 ## Catapulta
+
+| ![](buildings/Catapulta.gif) |
+| :--------------------------: |
+|          Catapulta           |
+
 ## Canhão
+
+| ![](buildings/Canhao.gif) |
+| :-----------------------: |
+|          Canhão           |
+
 ## Elevadiça
+
+| ![](buildings/Elevadica.gif) |
+| :--------------------------: |
+|          Elevadiça           |
+
 ## Circo
+
+| ![](buildings/Circo.gif) |
+| :----------------------: |
+|          Circo           |
+
 ## Garagem
+
+| ![](buildings/Garagem.gif) |
+| :------------------------: |
+|          Garagem           |
+
 ## Monastério
 
 |  ![](buildings/Monasterio.gif)   |
@@ -146,12 +214,36 @@ O Monastério...
 
 O Monastério de Fusão...
 
-| <video autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/supernova.mp4" type="video/mp4"></video> |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                             Supernova lançada pelo Monastério de Fusão                                                                             |
+| <video width="100%" autoplay muted loop playsinline controls><source src="https://raw.githubusercontent.com/nelsonspbr/nelsonspbr.github.io/master/games/rising/videos/supernova.mp4" type="video/mp4"></video> |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                   Supernova lançada pelo Monastério de Fusão                                                                                    |
 
 ## Mercado
+
+| ![](buildings/Mercado.gif) |
+| :------------------------: |
+|          Mercado           |
+
 ## Cristal
+
+| ![](buildings/Cristal.gif) |
+| :------------------------: |
+|          Cristal           |
+
 ## Heliporto
+
+| ![](buildings/Heliporto.gif) |
+| :--------------------------: |
+|          Heliporto           |
+
 ## Hospital
+
+| ![](buildings/Hospital.gif) |
+| :-------------------------: |
+|          Hospital           |
+
 ## Barraca de Campanha
+
+| ![](buildings/Barraca.gif) |
+| :------------------------: |
+|    Barraca de Campanha     |
