@@ -275,8 +275,19 @@ um exemplo dos diferentes status de suas unidades.
 | :---------------------: |
 |   Status das unidades   |
 
-Um comando que pode ser útil em algumas situações, é possível forçar que suas
-unidades comam — desde que a pizza esteja pelo menos com um pedaço faltando.
+As unidades possuem um certo número de pontos de vida. A barra começa cheia e
+conforme esvazia vai do verde para o amarelo e depois vermelho. É possível curar
+a maioria das unidades no Hospital ou na Garagem, dependendo do tipo.
+
+Os pontos de experiência são esses pequenos triângulos que aparecem ao redor do
+disco de comida. No exemplo acima temos quatro arqueiros com diferentes níveis
+de experiência.
+
+Os pontos de comida indicam o nível de fome da unidade. Quando os pontos acabam
+a unidade precisa comer. Note que isso fará com que a unidade pare o que está
+fazendo para procurar a fonte de comida mais próxima. Isso pode ser problemático
+durante uma batalha, por exemplo. É importante gerenciar o nível de fome de suas
+unidades antes e durate o combate. É possível forçar que suas unidades comam.
 Basta pressionar a tecla **E**. Isso por ajudar, por exemplo, quando você quiser
 "sincronizar" a alimentação de um grupo de unidades antes de movê-las.
 
@@ -284,7 +295,9 @@ Basta pressionar a tecla **E**. Isso por ajudar, por exemplo, quando você quise
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                    Fome                                                                                                    |
 
-O vídeo acima mostra ambos os casos. Primeiro, duas unidades que esvaziam
+O vídeo acima mostra ambos os casos. Primeiro, duas unidades que esvaziam seu
+disco de fome e precisam comer. Depois, um Colono que ainda tem pontos de comida
+mas que é forçado a se alimentar.
 
 {{ top }}
 
