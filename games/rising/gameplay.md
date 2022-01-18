@@ -233,13 +233,6 @@ abaixo.
 
 ## Unidades e Alimentação
 
-<!-- #TODO -->
-
-- barra de espaço = stats
-- barra de vida
-- pontos de experiência
-- pizza
-
 > Unidades humanas selecionadas aparecem dentro de um quadrado branco, com um
 > medidor de vida vertical e um gráfico de Comida.
 >
