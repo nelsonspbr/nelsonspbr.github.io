@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Privacy Policy
+title: dconv - Privacy Policy
 permalink: /dev/dconv/privacy
-parent: DCONV
+parent: dconv
 grand_parent: Development
 nav_order: 1
 has_children: false

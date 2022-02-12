@@ -1,12 +1,12 @@
 ---
 layout: default
-title: DCONV
+title: dconv
 permalink: /dev/dconv
 parent: Development
 has_children: true
 has_toc: true
 ---
 
-# DCONV
+# dconv
 
-DCONV is our dynamic unit converter.
+Dconv is our dynamic unit converter.

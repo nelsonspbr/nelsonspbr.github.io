@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Support
+title: dconv - Support
 permalink: /dev/dconv/support
-parent: DCONV
+parent: dconv
 grand_parent: Development
 nav_order: 2
 has_children: false

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Privacy Policy
+title: BMR - Privacy Policy
 permalink: /dev/bmr/privacy
 parent: BMR
 grand_parent: Development

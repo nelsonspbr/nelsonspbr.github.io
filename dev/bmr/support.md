@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Support
+title: BMR - Support
 permalink: /dev/bmr/support
 parent: BMR
 grand_parent: Development
