@@ -10,7 +10,7 @@ has_children: false
 
 # Privacy Policy
 
-Last update: February 11, 2022
+Last update: March 1, 2022
 
 ## What does this privacy policy cover?
 
@@ -20,6 +20,7 @@ This policy covers the **M&N Unit Converter**, also referred to as:
 - *service*
 - *Unit Converter*
 - */b/dconv*
+- **dconv**
 
 This app was developed by **Nelson Mimura Gonzalez**, also referred to as:
 - *we*
@@ -33,15 +34,20 @@ using our app.
 
 **Actively collected**
 
-Our app collects, by direct input from you, values in a specific unit of
-measurement to be converted to another unit of measurement.
+We define as *actively collected* any data that you disclose to us while using
+our app or when you contact us.
+
+Specifically, our app collects, by direct input from you, values in certain
+units of measurement to be converted to other units of measurement.
 
 **Passively collected**
 
-Our app may collect data from your device via third-party libraries used in our
-app to provide features such as targeted advertising and improved user
-experience. By using our app you agree and consent with the collection of this
-data.
+We define as *passively collected* any data that is automatically collected as
+part of third-party libraries and services used by our app.
+
+Specifically, our app collects data from your device to provide features such as
+targeted advertising and improved user experience. By using our app you agree
+and consent with the collection of this data.
 
 - coarse location, such as your IP address
 - device identification, such as the device advertising identifier
@@ -53,8 +59,8 @@ data.
 **Actively collected**
 
 The actively collected information is strictly used to convert values from one
-unit of measurement to another. We do not store nor keep private data in your
-device, nor in any systems we may own.
+unit of measurement to another. We do not store nor process your actively
+collected data outside the device being used to access our services.
 
 **Passively collected**
 
@@ -123,6 +129,218 @@ code and libraries that use cookies to collect information and improve their
 services. You have the option to either accept or refuse these cookies and know
 when a cookie is being sent to your device. If you choose to refuse our cookies,
 you may not be able to use some portions of our app.
+
+## General Data Protection Regulation (GDPR)
+
+### Legal bases
+
+The General Data Protection Regulation (GDPR) and UK GDPR require us to explain
+the valid legal bases we rely on in order to process your personal information.
+We only process your personal information when we believe it is necessary and
+when we have a valid legal reason (i.e., legal basis) to do so under the
+applicable law.
+
+**Specifically**, our app collects and processes your personal data, either
+actively or passively, with your consent -- i.e., only if you have given us
+permission to use your personal information for a specific purpose. You can
+withdraw your consent at any time -- click [here](#withdraw-consent) to learn
+more. For actively collected information you consent with providing your
+information as part of the core functionalities offered by our app. For
+passively collected information we ask for your consent before using your data.
+Your consent can then be reset, reconfigured, and revoked.
+
+We will also collect and process your personal information:
+
+- when necessary for complying with legal obligations, such as cooperating with
+  law enforcement bodies or regulatory agencies, exercising or defending our
+  legal rights, or disclosing your information as evidence in litigation in
+  which we are involved; and
+
+- when we believe it is necessary to protect your vital interests or vital
+  interests of a third party, such as situations involving potential threats to
+  the safety of any person.
+
+### Privacy rights
+
+In some regions, such as the European Economica Area (EEA), United Kingdom (UK),
+and Canada, you have rights that allow greater access and control over your
+personal information.
+
+If you are located in the EEA, UK, or Canada, you have certain rights under
+applicable data protection laws. These may include the right (i) to request
+access and obtain a copy of your personal information, (ii) to request
+rectification or erasure; (iii) to restrict the processing of your personal
+information; and (iv) if applicable, to data portability. In certain
+circumstances, you may also have the right to object to the processing of your
+personal information. You can make such a request by contacting us -- please
+refer to section ["Contact us"](#contact-us). We will consider and act upon any
+request in accordance with applicable data protection laws.
+
+If you are located in the EEA or UK and you believe we are unlawfully processing
+your personal information, you also have the right to complain to your local
+data protection supervisory authority. You can find their contact details here:
+https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm. If
+you are located in Switzerland, the contact details for the data protection
+authorities are available here: https://www.edoeb.admin.ch/edoeb/en/home.html.
+
+### Withdraw consent
+
+You can withdraw your consent to us collecting and processing your personal
+information at any time. Actively collected data is part of the core
+functionality offered by our app. If you do not consent to actively collected
+data, you must not use our app anymore. If you consent with activelt collected
+data but not with passively collected data, these data will only be collected
+after obtaining your consent. You may deny when first questioned about it or you
+may reset and revoke your consent using the appropriate options in our app.
+**Specifically**, our app provides specific options to reset consent options and
+to show the consent form, through which the user may accept or deny the passive
+collection of data.
+
+## California Consumer Privacy Act (CCPA)
+
+If you are a resident of California, you are granted specific rights regarding
+access to your personal information. California Civil Code Section 1798.83, also
+known as the "Shine The Light" law, permits our users who are California
+residents to request and obtain from us, once a year and free of charge,
+information about categories of personal information (if any) we disclosed to
+third parties for direct marketing purposes and the names and addresses of all
+third parties with which we shared personal information in the immediately
+preceding calendar year. If you are a California resident and would like to make
+such a request, please submit your request in writing to us using the contact
+information -- see section ["Contact us"](#contact-us).
+
+If you are under 18 years of age, reside in California, and have a registered
+account with Services, you have the right to request removal of unwanted data
+that you publicly post on the Services. To request removal of such data, please
+contact us using the contact information provided below and include the email
+address associated with your account and a statement that you reside in
+California. We will make sure the data is not publicly displayed on the
+Services, but please be aware that the data may not be completely or
+comprehensively removed from all our systems (e.g., backups, etc.).
+
+### CCPA Privacy Notice
+
+The California Code of Regulations defines a "resident" as:
+
+- (1) every individual who is in the State of California for other than a
+  temporary or transitory purpose and
+
+- (2) every individual who is domiciled in the State of California who is
+  outside the State of California for a temporary or transitory purpose
+
+All other individuals are defined as "non-residents". If this definition of
+"resident" applies to you, we must adhere to certain rights and obligations
+regarding your personal information.
+
+### What categories of personal information do we collect?
+
+We have collected the following categories of personal information in the past
+twelve (12) months:
+
+- (F) Internet or other similar network activity (e.g., browsing history, search
+  history, online behavior, interest data, and interactions with our and other
+  websites, applications, systems, and advertisements);
+
+- (G) Geolocation data (e.g., device location); and
+
+- (K) Inferences drawn from other personal information (e.g., inferences drawn
+  from any of the collected personal information listed above to create a
+  profile or summary about, for example, an individual’s preferences and
+  characteristics).
+
+We may also collect other personal information outside of these categories
+instances where you interact with us in person, online, or by phone or mail in
+the context of:
+
+- Receiving help through our customer support channels;
+- Participation in customer surveys or contests; and
+- Facilitation in the delivery of our Services and to respond to your inquiries.
+
+### How do we use and share your personal information?
+
+We collect and share your personal information through:
+
+-	Targeting cookies/Marketing cookies
+
+More information about our data collection and sharing practices can be found in
+this privacy notice. If you are using an authorized agent to exercise your right
+to opt out we may deny a request if the authorized agent does not submit proof
+that they have been validly authorized to act on your behalf.
+
+### Will your information be shared with anyone else?
+
+We may disclose your personal information with our service providers pursuant to
+a written contract between us and each service provider. Each service provider
+is a for-profit entity that processes the information on our behalf.
+
+We may use your personal information for our own business purposes, such as for
+undertaking internal research for technological development and demonstration.
+This is not considered to be "selling" of your personal information.
+
+We have not sold any personal information to third parties for a business or
+commercial purpose in the preceding twelve (12) months. In the preceding twelve
+(12) months we have disclosed data in the categories described in the prior
+section on ["What categories of personal information do we
+collect?"](#what-categories-of-personal-information-do-we-collect).
+
+### Your rights with respect to your personal data
+
+- *Right to request deletion of the data — Request to delete*. You can ask for
+  the deletion of your personal information. If you ask us to delete your
+  personal information, we will respect your request and delete your personal
+  information, subject to certain exceptions provided by law, such as (but not
+  limited to) the exercise by another consumer of his or her right to free
+  speech, our compliance requirements resulting from a legal obligation, or any
+  processing that may be required to protect against illegal activities.
+
+- *Right to be informed — Request to know*. Depending on the circumstances, you
+  have a right to know: whether we collect and use your personal information;
+  the categories of personal information that we collect; the purposes for which
+  the collected personal information is used; whether we sell your personal
+  information to third parties; the categories of personal information that we
+  sold or disclosed for a business purpose; the categories of third parties to
+  whom the personal information was sold or disclosed for a business purpose;
+  and the business or commercial purpose for collecting or selling personal
+  information.
+
+  In accordance with applicable law, we are not obligated to provide or delete
+  consumer information that is de-identified in response to a consumer request
+  or to re-identify individual data to verify a consumer request.
+
+- *Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights*.
+  We will not discriminate against you if you exercise your privacy rights.
+
+- *Verification process*. Upon receiving your request, we will need to verify
+  your identity to determine you are the same person about whom we have the
+  information in our system. These verification efforts require us to ask you to
+  provide information so that we can match it with information you have
+  previously provided us. For instance, depending on the type of request you
+  submit, we may ask you to provide certain information so that we can match the
+  information you provide with the information we already have on file, or we
+  may contact you through a communication method (e.g., phone or email) that you
+  have previously provided to us. We may also use other verification methods as
+  the circumstances dictate. We will only use personal information provided in
+  your request to verify your identity or authority to make the request. To the
+  extent possible, we will avoid requesting additional information from you for
+  the purposes of verification. However, if we cannot verify your identity from
+  the information already maintained by us, we may request that you provide
+  additional information for the purposes of verifying your identity and for
+  security or fraud-prevention purposes. We will delete such additionally
+  provided information as soon as we finish verifying you.
+
+- *Other privacy rights*. You may object to the processing of your personal
+  information. You may request correction of your personal data if it is
+  incorrect or no longer relevant, or ask to restrict the processing of the
+  information. You can designate an authorized agent to make a request under the
+  CCPA on your behalf. We may deny a request from an authorized agent that does
+  not submit proof that they have been validly authorized to act on your behalf
+  in accordance with the CCPA. You may request to opt out from future selling of
+  your personal information to third parties. Upon receiving an opt-out request,
+  we will act upon the request as soon as feasibly possible, but no later than
+  fifteen (15) days from the date of the request submission.
+
+Please contact us to exercise these rights -- see section ["Contact
+us"](#contact-us).
 
 ## Children's personal information
 
